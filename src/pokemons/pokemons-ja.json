@@ -4,7 +4,7 @@
     "name": "Bulbasaur",
     "classification": "Seed Pokémon",
     "types": ["くさ", "どく"],
-    "resistant": ["みず", "でんき", "くさ", "かくとう", "Fairy"],
+    "resistant": ["みず", "でんき", "くさ", "かくとう", "フェアリー"],
     "weaknesses": ["ほのお", "こおり", "ひこう", "エスパー"],
     "weight": {
       "minimum": "6.04kg",
@@ -68,7 +68,7 @@
     "name": "Ivysaur",
     "classification": "Seed Pokémon",
     "types": ["くさ", "どく"],
-    "resistant": ["みず", "でんき", "くさ", "かくとう", "Fairy"],
+    "resistant": ["みず", "でんき", "くさ", "かくとう", "フェアリー"],
     "weaknesses": ["ほのお", "こおり", "ひこう", "エスパー"],
     "weight": {
       "minimum": "11.38kg",
@@ -134,7 +134,7 @@
     "name": "Venusaur",
     "classification": "Seed Pokémon",
     "types": ["くさ", "どく"],
-    "resistant": ["みず", "でんき", "くさ", "かくとう", "Fairy"],
+    "resistant": ["みず", "でんき", "くさ", "かくとう", "フェアリー"],
     "weaknesses": ["ほのお", "こおり", "ひこう", "エスパー"],
     "weight": {
       "minimum": "87.5kg",
@@ -194,7 +194,7 @@
     "name": "Charmander",
     "classification": "Lizard Pokémon",
     "types": ["ほのお"],
-    "resistant": ["ほのお", "くさ", "こおり", "むし", "はがね", "Fairy"],
+    "resistant": ["ほのお", "くさ", "こおり", "むし", "はがね", "フェアリー"],
     "weaknesses": ["みず", "じめん", "いわ"],
     "weight": {
       "minimum": "7.44kg",
@@ -258,7 +258,7 @@
     "name": "Charmeleon",
     "classification": "Flame Pokémon",
     "types": ["ほのお"],
-    "resistant": ["ほのお", "くさ", "こおり", "むし", "はがね", "Fairy"],
+    "resistant": ["ほのお", "くさ", "こおり", "むし", "はがね", "フェアリー"],
     "weaknesses": ["みず", "じめん", "いわ"],
     "weight": {
       "minimum": "16.63kg",
@@ -324,7 +324,7 @@
     "name": "Charizard",
     "classification": "Flame Pokémon",
     "types": ["ほのお", "ひこう"],
-    "resistant": ["ほのお", "くさ", "かくとう", "むし", "はがね", "Fairy"],
+    "resistant": ["ほのお", "くさ", "かくとう", "むし", "はがね", "フェアリー"],
     "weaknesses": ["みず", "でんき", "いわ"],
     "weight": {
       "minimum": "79.19kg",
@@ -754,7 +754,7 @@
     "name": "Weedle",
     "classification": "Hairy Pokémon",
     "types": ["むし", "どく"],
-    "resistant": ["くさ", "かくとう", "どく", "むし", "Fairy"],
+    "resistant": ["くさ", "かくとう", "どく", "むし", "フェアリー"],
     "weaknesses": ["ほのお", "ひこう", "エスパー", "いわ"],
     "weight": {
       "minimum": "2.8kg",
@@ -808,7 +808,7 @@
     "name": "Kakuna",
     "classification": "Cocoon Pokémon",
     "types": ["むし", "どく"],
-    "resistant": ["くさ", "かくとう", "どく", "むし", "Fairy"],
+    "resistant": ["くさ", "かくとう", "どく", "むし", "フェアリー"],
     "weaknesses": ["ほのお", "ひこう", "エスパー", "いわ"],
     "weight": {
       "minimum": "8.75kg",
@@ -864,7 +864,7 @@
     "name": "Beedrill",
     "classification": "Poison Bee Pokémon",
     "types": ["むし", "どく"],
-    "resistant": ["くさ", "かくとう", "どく", "むし", "Fairy"],
+    "resistant": ["くさ", "かくとう", "どく", "むし", "フェアリー"],
     "weaknesses": ["ほのお", "ひこう", "エスパー", "いわ"],
     "weight": {
       "minimum": "25.81kg",
@@ -1346,7 +1346,7 @@
     "name": "Ekans",
     "classification": "Snake Pokémon",
     "types": ["どく"],
-    "resistant": ["くさ", "かくとう", "どく", "むし", "Fairy"],
+    "resistant": ["くさ", "かくとう", "どく", "むし", "フェアリー"],
     "weaknesses": ["じめん", "エスパー"],
     "weight": {
       "minimum": "6.04kg",
@@ -1406,7 +1406,7 @@
     "name": "Arbok",
     "classification": "Cobra Pokémon",
     "types": ["どく"],
-    "resistant": ["くさ", "かくとう", "どく", "むし", "Fairy"],
+    "resistant": ["くさ", "かくとう", "どく", "むし", "フェアリー"],
     "weaknesses": ["じめん", "エスパー"],
     "weight": {
       "minimum": "56.88kg",
@@ -1694,7 +1694,7 @@
     "name": "Nidoran-F",
     "classification": "Poison Pin Pokémon",
     "types": ["どく"],
-    "resistant": ["くさ", "かくとう", "どく", "むし", "Fairy"],
+    "resistant": ["くさ", "かくとう", "どく", "むし", "フェアリー"],
     "weaknesses": ["じめん", "エスパー"],
     "weight": {
       "minimum": "6.13kg",
@@ -1758,7 +1758,7 @@
     "name": "Nidorina",
     "classification": "Poison Pin Pokémon",
     "types": ["どく"],
-    "resistant": ["くさ", "かくとう", "どく", "むし", "Fairy"],
+    "resistant": ["くさ", "かくとう", "どく", "むし", "フェアリー"],
     "weaknesses": ["じめん", "エスパー"],
     "weight": {
       "minimum": "17.5kg",
@@ -1824,7 +1824,7 @@
     "name": "Nidoqueen",
     "classification": "Drill Pokémon",
     "types": ["どく", "じめん"],
-    "resistant": ["でんき", "かくとう", "どく", "むし", "いわ", "Fairy"],
+    "resistant": ["でんき", "かくとう", "どく", "むし", "いわ", "フェアリー"],
     "weaknesses": ["みず", "こおり", "じめん", "エスパー"],
     "weight": {
       "minimum": "52.5kg",
@@ -1884,7 +1884,7 @@
     "name": "Nidoran-M",
     "classification": "Poison Pin Pokémon",
     "types": ["どく"],
-    "resistant": ["くさ", "かくとう", "どく", "むし", "Fairy"],
+    "resistant": ["くさ", "かくとう", "どく", "むし", "フェアリー"],
     "weaknesses": ["じめん", "エスパー"],
     "weight": {
       "minimum": "7.88kg",
@@ -1948,7 +1948,7 @@
     "name": "Nidorino",
     "classification": "Poison Pin Pokémon",
     "types": ["どく"],
-    "resistant": ["くさ", "かくとう", "どく", "むし", "Fairy"],
+    "resistant": ["くさ", "かくとう", "どく", "むし", "フェアリー"],
     "weaknesses": ["じめん", "エスパー"],
     "weight": {
       "minimum": "17.06kg",
@@ -2014,7 +2014,7 @@
     "name": "Nidoking",
     "classification": "Drill Pokémon",
     "types": ["どく", "じめん"],
-    "resistant": ["でんき", "かくとう", "どく", "むし", "いわ", "Fairy"],
+    "resistant": ["でんき", "かくとう", "どく", "むし", "いわ", "フェアリー"],
     "weaknesses": ["みず", "こおり", "じめん", "エスパー"],
     "weight": {
       "minimum": "54.25kg",
@@ -2073,7 +2073,7 @@
     "id": "035",
     "name": "Clefairy",
     "classification": "Fairy Pokémon",
-    "types": ["Fairy"],
+    "types": ["フェアリー"],
     "resistant": ["かくとう", "むし", "ドラゴン", "あく"],
     "weaknesses": ["どく", "はがね"],
     "weight": {
@@ -2118,12 +2118,12 @@
         },
         {
           "name": "Disarming Voice",
-          "type": "Fairy",
+          "type": "フェアリー",
           "damage": 25
         },
         {
           "name": "Moonblast",
-          "type": "Fairy",
+          "type": "フェアリー",
           "damage": 85
         }
       ]
@@ -2133,7 +2133,7 @@
     "id": "036",
     "name": "Clefable",
     "classification": "Fairy Pokémon",
-    "types": ["Fairy"],
+    "types": ["フェアリー"],
     "resistant": ["かくとう", "むし", "ドラゴン", "あく"],
     "weaknesses": ["どく", "はがね"],
     "weight": {
@@ -2169,12 +2169,12 @@
       "special": [
         {
           "name": "Dazzling Gleam",
-          "type": "Fairy",
+          "type": "フェアリー",
           "damage": 55
         },
         {
           "name": "Moonblast",
-          "type": "Fairy",
+          "type": "フェアリー",
           "damage": 85
         },
         {
@@ -2190,7 +2190,7 @@
     "name": "Vulpix",
     "classification": "Fox Pokémon",
     "types": ["ほのお"],
-    "resistant": ["ほのお", "くさ", "こおり", "むし", "はがね", "Fairy"],
+    "resistant": ["ほのお", "くさ", "こおり", "むし", "はがね", "フェアリー"],
     "weaknesses": ["みず", "じめん", "いわ"],
     "weight": {
       "minimum": "8.66kg",
@@ -2250,7 +2250,7 @@
     "name": "Ninetales",
     "classification": "Fox Pokémon",
     "types": ["ほのお"],
-    "resistant": ["ほのお", "くさ", "こおり", "むし", "はがね", "Fairy"],
+    "resistant": ["ほのお", "くさ", "こおり", "むし", "はがね", "フェアリー"],
     "weaknesses": ["みず", "じめん", "いわ"],
     "weight": {
       "minimum": "17.41kg",
@@ -2305,7 +2305,7 @@
     "id": "039",
     "name": "Jigglypuff",
     "classification": "Balloon Pokémon",
-    "types": ["ノーマル", "Fairy"],
+    "types": ["ノーマル", "フェアリー"],
     "resistant": ["むし", "ゴースト", "ドラゴン", "あく"],
     "weaknesses": ["どく", "はがね"],
     "weight": {
@@ -2350,12 +2350,12 @@
         },
         {
           "name": "Disarming Voice",
-          "type": "Fairy",
+          "type": "フェアリー",
           "damage": 25
         },
         {
           "name": "Play Rough",
-          "type": "Fairy",
+          "type": "フェアリー",
           "damage": 55
         }
       ]
@@ -2365,7 +2365,7 @@
     "id": "040",
     "name": "Wigglytuff",
     "classification": "Balloon Pokémon",
-    "types": ["ノーマル", "Fairy"],
+    "types": ["ノーマル", "フェアリー"],
     "resistant": ["むし", "ゴースト", "ドラゴン", "あく"],
     "weaknesses": ["どく", "はがね"],
     "weight": {
@@ -2401,7 +2401,7 @@
       "special": [
         {
           "name": "Dazzling Gleam",
-          "type": "Fairy",
+          "type": "フェアリー",
           "damage": 55
         },
         {
@@ -2411,7 +2411,7 @@
         },
         {
           "name": "Play Rough",
-          "type": "Fairy",
+          "type": "フェアリー",
           "damage": 55
         }
       ]
@@ -2422,7 +2422,7 @@
     "name": "Zubat",
     "classification": "Bat Pokémon",
     "types": ["どく", "ひこう"],
-    "resistant": ["くさ", "かくとう", "どく", "むし", "Fairy"],
+    "resistant": ["くさ", "かくとう", "どく", "むし", "フェアリー"],
     "weaknesses": ["でんき", "こおり", "エスパー", "いわ"],
     "weight": {
       "minimum": "6.56kg",
@@ -2482,7 +2482,7 @@
     "name": "Golbat",
     "classification": "Bat Pokémon",
     "types": ["どく", "ひこう"],
-    "resistant": ["くさ", "かくとう", "どく", "むし", "Fairy"],
+    "resistant": ["くさ", "かくとう", "どく", "むし", "フェアリー"],
     "weaknesses": ["でんき", "こおり", "エスパー", "いわ"],
     "weight": {
       "minimum": "48.13kg",
@@ -2538,7 +2538,7 @@
     "name": "Oddish",
     "classification": "Weed Pokémon",
     "types": ["くさ", "どく"],
-    "resistant": ["みず", "でんき", "くさ", "かくとう", "Fairy"],
+    "resistant": ["みず", "でんき", "くさ", "かくとう", "フェアリー"],
     "weaknesses": ["ほのお", "こおり", "ひこう", "エスパー"],
     "weight": {
       "minimum": "4.73kg",
@@ -2581,7 +2581,7 @@
       "special": [
         {
           "name": "Moonblast",
-          "type": "Fairy",
+          "type": "フェアリー",
           "damage": 85
         },
         {
@@ -2602,7 +2602,7 @@
     "name": "Gloom",
     "classification": "Weed Pokémon",
     "types": ["くさ", "どく"],
-    "resistant": ["みず", "でんき", "くさ", "かくとう", "Fairy"],
+    "resistant": ["みず", "でんき", "くさ", "かくとう", "フェアリー"],
     "weaknesses": ["ほのお", "こおり", "ひこう", "エスパー"],
     "weight": {
       "minimum": "7.53kg",
@@ -2647,7 +2647,7 @@
       "special": [
         {
           "name": "Moonblast",
-          "type": "Fairy",
+          "type": "フェアリー",
           "damage": 85
         },
         {
@@ -2668,7 +2668,7 @@
     "name": "Vileplume",
     "classification": "Flower Pokémon",
     "types": ["くさ", "どく"],
-    "resistant": ["みず", "でんき", "くさ", "かくとう", "Fairy"],
+    "resistant": ["みず", "でんき", "くさ", "かくとう", "フェアリー"],
     "weaknesses": ["ほのお", "こおり", "ひこう", "エスパー"],
     "weight": {
       "minimum": "16.28kg",
@@ -2707,7 +2707,7 @@
       "special": [
         {
           "name": "Moonblast",
-          "type": "Fairy",
+          "type": "フェアリー",
           "damage": 85
         },
         {
@@ -2844,7 +2844,7 @@
     "name": "Venonat",
     "classification": "Insect Pokémon",
     "types": ["むし", "どく"],
-    "resistant": ["くさ", "かくとう", "どく", "むし", "Fairy"],
+    "resistant": ["くさ", "かくとう", "どく", "むし", "フェアリー"],
     "weaknesses": ["ほのお", "ひこう", "エスパー", "いわ"],
     "weight": {
       "minimum": "26.25kg",
@@ -2904,7 +2904,7 @@
     "name": "Venomoth",
     "classification": "Poison Moth Pokémon",
     "types": ["むし", "どく"],
-    "resistant": ["くさ", "かくとう", "どく", "むし", "Fairy"],
+    "resistant": ["くさ", "かくとう", "どく", "むし", "フェアリー"],
     "weaknesses": ["ほのお", "ひこう", "エスパー", "いわ"],
     "weight": {
       "minimum": "10.94kg",
@@ -3176,7 +3176,7 @@
         },
         {
           "name": "Play Rough",
-          "type": "Fairy",
+          "type": "フェアリー",
           "damage": 55
         },
         {
@@ -3314,7 +3314,7 @@
     "classification": "Pig Monkey Pokémon",
     "types": ["かくとう"],
     "resistant": ["むし", "いわ", "あく"],
-    "weaknesses": ["ひこう", "エスパー", "Fairy"],
+    "weaknesses": ["ひこう", "エスパー", "フェアリー"],
     "weight": {
       "minimum": "24.5kg",
       "maximum": "31.5kg"
@@ -3374,7 +3374,7 @@
     "classification": "Pig Monkey Pokémon",
     "types": ["かくとう"],
     "resistant": ["むし", "いわ", "あく"],
-    "weaknesses": ["ひこう", "エスパー", "Fairy"],
+    "weaknesses": ["ひこう", "エスパー", "フェアリー"],
     "weight": {
       "minimum": "28kg",
       "maximum": "36kg"
@@ -3429,7 +3429,7 @@
     "name": "Growlithe",
     "classification": "Puppy Pokémon",
     "types": ["ほのお"],
-    "resistant": ["ほのお", "くさ", "こおり", "むし", "はがね", "Fairy"],
+    "resistant": ["ほのお", "くさ", "こおり", "むし", "はがね", "フェアリー"],
     "weaknesses": ["みず", "じめん", "いわ"],
     "weight": {
       "minimum": "16.63kg",
@@ -3489,7 +3489,7 @@
     "name": "Arcanine",
     "classification": "Legendary Pokémon",
     "types": ["ほのお"],
-    "resistant": ["ほのお", "くさ", "こおり", "むし", "はがね", "Fairy"],
+    "resistant": ["ほのお", "くさ", "こおり", "むし", "はがね", "フェアリー"],
     "weaknesses": ["みず", "じめん", "いわ"],
     "weight": {
       "minimum": "135.63kg",
@@ -3676,7 +3676,7 @@
     "classification": "Tadpole Pokémon",
     "types": ["みず", "かくとう"],
     "resistant": ["ほのお", "みず", "こおり", "むし", "いわ", "あく", "はがね"],
-    "weaknesses": ["でんき", "くさ", "ひこう", "エスパー", "Fairy"],
+    "weaknesses": ["でんき", "くさ", "ひこう", "エスパー", "フェアリー"],
     "weight": {
       "minimum": "47.25kg",
       "maximum": "60.75kg"
@@ -3840,7 +3840,7 @@
       "special": [
         {
           "name": "Dazzling Gleam",
-          "type": "Fairy",
+          "type": "フェアリー",
           "damage": 55
         },
         {
@@ -3900,7 +3900,7 @@
       "special": [
         {
           "name": "Dazzling Gleam",
-          "type": "Fairy",
+          "type": "フェアリー",
           "damage": 55
         },
         {
@@ -3922,7 +3922,7 @@
     "classification": "Superpower Pokémon",
     "types": ["かくとう"],
     "resistant": ["むし", "いわ", "あく"],
-    "weaknesses": ["ひこう", "エスパー", "Fairy"],
+    "weaknesses": ["ひこう", "エスパー", "フェアリー"],
     "weight": {
       "minimum": "17.06kg",
       "maximum": "21.94kg"
@@ -3986,7 +3986,7 @@
     "classification": "Superpower Pokémon",
     "types": ["かくとう"],
     "resistant": ["むし", "いわ", "あく"],
-    "weaknesses": ["ひこう", "エスパー", "Fairy"],
+    "weaknesses": ["ひこう", "エスパー", "フェアリー"],
     "weight": {
       "minimum": "61.69kg",
       "maximum": "79.31kg"
@@ -4052,7 +4052,7 @@
     "classification": "Superpower Pokémon",
     "types": ["かくとう"],
     "resistant": ["むし", "いわ", "あく"],
-    "weaknesses": ["ひこう", "エスパー", "Fairy"],
+    "weaknesses": ["ひこう", "エスパー", "フェアリー"],
     "weight": {
       "minimum": "113.75kg",
       "maximum": "146.25kg"
@@ -4111,7 +4111,7 @@
     "name": "Bellsprout",
     "classification": "Flower Pokémon",
     "types": ["くさ", "どく"],
-    "resistant": ["みず", "でんき", "くさ", "かくとう", "Fairy"],
+    "resistant": ["みず", "でんき", "くさ", "かくとう", "フェアリー"],
     "weaknesses": ["ほのお", "こおり", "ひこう", "エスパー"],
     "weight": {
       "minimum": "3.5kg",
@@ -4175,7 +4175,7 @@
     "name": "Weepinbell",
     "classification": "Flycatcher Pokémon",
     "types": ["くさ", "どく"],
-    "resistant": ["みず", "でんき", "くさ", "かくとう", "Fairy"],
+    "resistant": ["みず", "でんき", "くさ", "かくとう", "フェアリー"],
     "weaknesses": ["ほのお", "こおり", "ひこう", "エスパー"],
     "weight": {
       "minimum": "5.6kg",
@@ -4241,7 +4241,7 @@
     "name": "Victreebel",
     "classification": "Flycatcher Pokémon",
     "types": ["くさ", "どく"],
-    "resistant": ["みず", "でんき", "くさ", "かくとう", "Fairy"],
+    "resistant": ["みず", "でんき", "くさ", "かくとう", "フェアリー"],
     "weaknesses": ["ほのお", "こおり", "ひこう", "エスパー"],
     "weight": {
       "minimum": "13.56kg",
@@ -4309,7 +4309,7 @@
       "どく",
       "むし",
       "はがね",
-      "Fairy"
+      "フェアリー"
     ],
     "weaknesses": ["でんき", "じめん", "エスパー"],
     "weight": {
@@ -4378,7 +4378,7 @@
       "どく",
       "むし",
       "はがね",
-      "Fairy"
+      "フェアリー"
     ],
     "weaknesses": ["でんき", "じめん", "エスパー"],
     "weight": {
@@ -4625,7 +4625,7 @@
     "name": "Ponyta",
     "classification": "Fire Horse Pokémon",
     "types": ["ほのお"],
-    "resistant": ["ほのお", "くさ", "こおり", "むし", "はがね", "Fairy"],
+    "resistant": ["ほのお", "くさ", "こおり", "むし", "はがね", "フェアリー"],
     "weaknesses": ["みず", "じめん", "いわ"],
     "weight": {
       "minimum": "26.25kg",
@@ -4685,7 +4685,7 @@
     "name": "Rapidash",
     "classification": "Fire Horse Pokémon",
     "types": ["ほのお"],
-    "resistant": ["ほのお", "くさ", "こおり", "むし", "はがね", "Fairy"],
+    "resistant": ["ほのお", "くさ", "こおり", "むし", "はがね", "フェアリー"],
     "weaknesses": ["みず", "じめん", "いわ"],
     "weight": {
       "minimum": "83.13kg",
@@ -4869,7 +4869,7 @@
       "いわ",
       "ドラゴン",
       "はがね",
-      "Fairy"
+      "フェアリー"
     ],
     "weaknesses": ["ほのお", "かくとう", "じめん"],
     "weight": {
@@ -4942,7 +4942,7 @@
       "いわ",
       "ドラゴン",
       "はがね",
-      "Fairy"
+      "フェアリー"
     ],
     "weaknesses": ["ほのお", "かくとう", "じめん"],
     "weight": {
@@ -5279,7 +5279,7 @@
     "name": "Grimer",
     "classification": "Sludge Pokémon",
     "types": ["どく"],
-    "resistant": ["くさ", "かくとう", "どく", "むし", "Fairy"],
+    "resistant": ["くさ", "かくとう", "どく", "むし", "フェアリー"],
     "weaknesses": ["じめん", "エスパー"],
     "weight": {
       "minimum": "26.25kg",
@@ -5339,7 +5339,7 @@
     "name": "Muk",
     "classification": "Sludge Pokémon",
     "types": ["どく"],
-    "resistant": ["くさ", "かくとう", "どく", "むし", "Fairy"],
+    "resistant": ["くさ", "かくとう", "どく", "むし", "フェアリー"],
     "weaknesses": ["じめん", "エスパー"],
     "weight": {
       "minimum": "26.25kg",
@@ -5511,7 +5511,7 @@
     "name": "Gastly",
     "classification": "Gas Pokémon",
     "types": ["ゴースト", "どく"],
-    "resistant": ["ノーマル", "くさ", "かくとう", "どく", "むし", "Fairy"],
+    "resistant": ["ノーマル", "くさ", "かくとう", "どく", "むし", "フェアリー"],
     "weaknesses": ["じめん", "エスパー", "ゴースト", "あく"],
     "weight": {
       "minimum": "0.09kg",
@@ -5575,7 +5575,7 @@
     "name": "Haunter",
     "classification": "Gas Pokémon",
     "types": ["ゴースト", "どく"],
-    "resistant": ["ノーマル", "くさ", "かくとう", "どく", "むし", "Fairy"],
+    "resistant": ["ノーマル", "くさ", "かくとう", "どく", "むし", "フェアリー"],
     "weaknesses": ["じめん", "エスパー", "ゴースト", "あく"],
     "weight": {
       "minimum": "0.09kg",
@@ -5641,7 +5641,7 @@
     "name": "Gengar",
     "classification": "Shadow Pokémon",
     "types": ["ゴースト", "どく"],
-    "resistant": ["ノーマル", "くさ", "かくとう", "どく", "むし", "Fairy"],
+    "resistant": ["ノーマル", "くさ", "かくとう", "どく", "むし", "フェアリー"],
     "weaknesses": ["じめん", "エスパー", "ゴースト", "あく"],
     "weight": {
       "minimum": "35.44kg",
@@ -6343,7 +6343,7 @@
     "classification": "Kicking Pokémon",
     "types": ["かくとう"],
     "resistant": ["むし", "いわ", "あく"],
-    "weaknesses": ["ひこう", "エスパー", "Fairy"],
+    "weaknesses": ["ひこう", "エスパー", "フェアリー"],
     "weight": {
       "minimum": "43.57kg",
       "maximum": "56.02kg"
@@ -6393,7 +6393,7 @@
     "classification": "Punching Pokémon",
     "types": ["かくとう"],
     "resistant": ["むし", "いわ", "あく"],
-    "weaknesses": ["ひこう", "エスパー", "Fairy"],
+    "weaknesses": ["ひこう", "エスパー", "フェアリー"],
     "weight": {
       "minimum": "43.93kg",
       "maximum": "56.48kg"
@@ -6497,7 +6497,7 @@
     "name": "Koffing",
     "classification": "Poison Gas Pokémon",
     "types": ["どく"],
-    "resistant": ["くさ", "かくとう", "どく", "むし", "Fairy"],
+    "resistant": ["くさ", "かくとう", "どく", "むし", "フェアリー"],
     "weaknesses": ["じめん", "エスパー"],
     "weight": {
       "minimum": "0.88kg",
@@ -6557,7 +6557,7 @@
     "name": "Weezing",
     "classification": "Poison Gas Pokémon",
     "types": ["どく"],
-    "resistant": ["くさ", "かくとう", "どく", "むし", "Fairy"],
+    "resistant": ["くさ", "かくとう", "どく", "むし", "フェアリー"],
     "weaknesses": ["じめん", "エスパー"],
     "weight": {
       "minimum": "8.31kg",
@@ -6758,7 +6758,7 @@
       "special": [
         {
           "name": "Dazzling Gleam",
-          "type": "Fairy",
+          "type": "フェアリー",
           "damage": 55
         },
         {
@@ -7223,7 +7223,7 @@
     "id": "122",
     "name": "Mr. Mime",
     "classification": "Barrier Pokémon",
-    "types": ["エスパー", "Fairy"],
+    "types": ["エスパー", "フェアリー"],
     "resistant": ["かくとう", "エスパー", "ドラゴン"],
     "weaknesses": ["どく", "ゴースト", "はがね"],
     "weight": {
@@ -7355,7 +7355,7 @@
       "special": [
         {
           "name": "Draining Kiss",
-          "type": "Fairy",
+          "type": "フェアリー",
           "damage": 25
         },
         {
@@ -7426,7 +7426,7 @@
     "name": "Magmar",
     "classification": "Spitfire Pokémon",
     "types": ["ほのお"],
-    "resistant": ["ほのお", "くさ", "こおり", "むし", "はがね", "Fairy"],
+    "resistant": ["ほのお", "くさ", "こおり", "むし", "はがね", "フェアリー"],
     "weaknesses": ["みず", "じめん", "いわ"],
     "weight": {
       "minimum": "38.94kg",
@@ -7934,7 +7934,7 @@
     "name": "Flareon",
     "classification": "Flame Pokémon",
     "types": ["ほのお"],
-    "resistant": ["ほのお", "くさ", "こおり", "むし", "はがね", "Fairy"],
+    "resistant": ["ほのお", "くさ", "こおり", "むし", "はがね", "フェアリー"],
     "weaknesses": ["みず", "じめん", "いわ"],
     "weight": {
       "minimum": "21.88kg",
@@ -8461,7 +8461,7 @@
     "name": "Moltres",
     "classification": "Flame Pokémon",
     "types": ["ほのお", "ひこう"],
-    "resistant": ["ほのお", "くさ", "かくとう", "むし", "はがね", "Fairy"],
+    "resistant": ["ほのお", "くさ", "かくとう", "むし", "はがね", "フェアリー"],
     "weaknesses": ["みず", "でんき", "いわ"],
     "weight": {
       "minimum": "52.5kg",
@@ -8509,7 +8509,7 @@
     "classification": "Dragon Pokémon",
     "types": ["ドラゴン"],
     "resistant": ["ほのお", "みず", "でんき", "くさ"],
-    "weaknesses": ["こおり", "ドラゴン", "Fairy"],
+    "weaknesses": ["こおり", "ドラゴン", "フェアリー"],
     "weight": {
       "minimum": "2.89kg",
       "maximum": "3.71kg"
@@ -8564,7 +8564,7 @@
     "classification": "Dragon Pokémon",
     "types": ["ドラゴン"],
     "resistant": ["ほのお", "みず", "でんき", "くさ"],
-    "weaknesses": ["こおり", "ドラゴン", "Fairy"],
+    "weaknesses": ["こおり", "ドラゴン", "フェアリー"],
     "weight": {
       "minimum": "14.44kg",
       "maximum": "18.56kg"
@@ -8625,7 +8625,7 @@
     "classification": "Dragon Pokémon",
     "types": ["ドラゴン", "ひこう"],
     "resistant": ["ほのお", "みず", "くさ", "かくとう", "じめん", "むし"],
-    "weaknesses": ["こおり", "いわ", "ドラゴン", "Fairy"],
+    "weaknesses": ["こおり", "いわ", "ドラゴン", "フェアリー"],
     "weight": {
       "minimum": "183.75kg",
       "maximum": "236.25kg"
@@ -8787,7 +8787,7 @@
         },
         {
           "name": "Moonblast",
-          "type": "Fairy",
+          "type": "フェアリー",
           "damage": 85
         },
         {
