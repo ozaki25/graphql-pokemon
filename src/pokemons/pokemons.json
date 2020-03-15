@@ -2117,7 +2117,7 @@
           "damage": 40
         },
         {
-          "name": "Disarming Voice",
+          "name": "チャームボイス",
           "type": "フェアリー",
           "damage": 25
         },
@@ -2349,12 +2349,12 @@
           "damage": 40
         },
         {
-          "name": "Disarming Voice",
+          "name": "チャームボイス",
           "type": "フェアリー",
           "damage": 25
         },
         {
-          "name": "Play Rough",
+          "name": "じゃれつく",
           "type": "フェアリー",
           "damage": 55
         }
@@ -2410,7 +2410,7 @@
           "damage": 120
         },
         {
-          "name": "Play Rough",
+          "name": "じゃれつく",
           "type": "フェアリー",
           "damage": 55
         }
@@ -2766,7 +2766,7 @@
       ],
       "special": [
         {
-          "name": "Cross Poison",
+          "name": "クロスポイズン",
           "type": "どく",
           "damage": 25
         },
@@ -2822,7 +2822,7 @@
       ],
       "special": [
         {
-          "name": "Cross Poison",
+          "name": "クロスポイズン",
           "type": "どく",
           "damage": 25
         },
@@ -3175,7 +3175,7 @@
           "damage": 30
         },
         {
-          "name": "Play Rough",
+          "name": "じゃれつく",
           "type": "フェアリー",
           "damage": 55
         },
@@ -3663,7 +3663,7 @@
           "damage": 30
         },
         {
-          "name": "Scald",
+          "name": "ねっとう",
           "type": "みず",
           "damage": 55
         }
