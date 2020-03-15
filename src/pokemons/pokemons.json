@@ -34,29 +34,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Tackle",
+          "name": "たいあたり",
           "type": "ノーマル",
           "damage": 12
         },
         {
-          "name": "Vine Whip",
+          "name": "つるのムチ",
           "type": "くさ",
           "damage": 7
         }
       ],
       "special": [
         {
-          "name": "Power Whip",
+          "name": "パワーウィップ",
           "type": "くさ",
           "damage": 70
         },
         {
-          "name": "Seed Bomb",
+          "name": "タネばくだん",
           "type": "くさ",
           "damage": 40
         },
         {
-          "name": "Sludge Bomb",
+          "name": "ヘドロばくだん",
           "type": "どく",
           "damage": 55
         }
@@ -100,29 +100,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Razor Leaf",
+          "name": "はっぱカッター",
           "type": "くさ",
           "damage": 15
         },
         {
-          "name": "Vine Whip",
+          "name": "つるのムチ",
           "type": "くさ",
           "damage": 7
         }
       ],
       "special": [
         {
-          "name": "Power Whip",
+          "name": "パワーウィップ",
           "type": "くさ",
           "damage": 70
         },
         {
-          "name": "Sludge Bomb",
+          "name": "ヘドロばくだん",
           "type": "どく",
           "damage": 55
         },
         {
-          "name": "Solar Beam",
+          "name": "ソーラービーム",
           "type": "くさ",
           "damage": 120
         }
@@ -160,29 +160,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Razor Leaf",
+          "name": "はっぱカッター",
           "type": "くさ",
           "damage": 15
         },
         {
-          "name": "Vine Whip",
+          "name": "つるのムチ",
           "type": "くさ",
           "damage": 7
         }
       ],
       "special": [
         {
-          "name": "Petal Blizzard",
+          "name": "はなふぶき",
           "type": "くさ",
           "damage": 65
         },
         {
-          "name": "Sludge Bomb",
+          "name": "ヘドロばくだん",
           "type": "どく",
           "damage": 55
         },
         {
-          "name": "Solar Beam",
+          "name": "ソーラービーム",
           "type": "くさ",
           "damage": 120
         }
@@ -224,29 +224,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Ember",
+          "name": "ひのこ",
           "type": "ほのお",
           "damage": 10
         },
         {
-          "name": "Scratch",
+          "name": "ひっかく",
           "type": "ノーマル",
           "damage": 6
         }
       ],
       "special": [
         {
-          "name": "Flame Burst",
+          "name": "はじけるほのお",
           "type": "ほのお",
           "damage": 30
         },
         {
-          "name": "Flame Charge",
+          "name": "ニトロチャージ",
           "type": "ほのお",
           "damage": 25
         },
         {
-          "name": "Flamethrower",
+          "name": "かえんほうしゃ",
           "type": "ほのお",
           "damage": 55
         }
@@ -290,29 +290,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Ember",
+          "name": "ひのこ",
           "type": "ほのお",
           "damage": 10
         },
         {
-          "name": "Scratch",
+          "name": "ひっかく",
           "type": "ノーマル",
           "damage": 6
         }
       ],
       "special": [
         {
-          "name": "Fire Punch",
+          "name": "ほのおのパンチ",
           "type": "ほのお",
           "damage": 40
         },
         {
-          "name": "Flame Burst",
+          "name": "はじけるほのお",
           "type": "ほのお",
           "damage": 30
         },
         {
-          "name": "Flamethrower",
+          "name": "かえんほうしゃ",
           "type": "ほのお",
           "damage": 55
         }
@@ -350,29 +350,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Ember",
+          "name": "ひのこ",
           "type": "ほのお",
           "damage": 10
         },
         {
-          "name": "Wing Attack",
+          "name": "つばさでうつ",
           "type": "ひこう",
           "damage": 9
         }
       ],
       "special": [
         {
-          "name": "Dragon Claw",
+          "name": "ドラゴンクロー",
           "type": "ドラゴン",
           "damage": 35
         },
         {
-          "name": "Fire Blast",
+          "name": "だいもんじ",
           "type": "ほのお",
           "damage": 100
         },
         {
-          "name": "Flamethrower",
+          "name": "かえんほうしゃ",
           "type": "ほのお",
           "damage": 55
         }
@@ -414,29 +414,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Bubble",
+          "name": "あわ",
           "type": "みず",
           "damage": 25
         },
         {
-          "name": "Tackle",
+          "name": "たいあたり",
           "type": "ノーマル",
           "damage": 12
         }
       ],
       "special": [
         {
-          "name": "Aqua Jet",
+          "name": "アクアジェット",
           "type": "みず",
           "damage": 25
         },
         {
-          "name": "Aqua Tail",
+          "name": "アクアテール",
           "type": "みず",
           "damage": 45
         },
         {
-          "name": "Water Pulse",
+          "name": "みずのはどう",
           "type": "みず",
           "damage": 35
         }
@@ -480,34 +480,34 @@
     "attacks": {
       "fast": [
         {
-          "name": "Bite",
+          "name": "かみつく",
           "type": "あく",
           "damage": 6
         },
         {
-          "name": "Water Gun",
+          "name": "みずでっぽう",
           "type": "みず",
           "damage": 6
         }
       ],
       "special": [
         {
-          "name": "Aqua Jet",
+          "name": "アクアジェット",
           "type": "みず",
           "damage": 25
         },
         {
-          "name": "Gunk Shot",
+          "name": "ダストシュート",
           "type": "どく",
           "damage": 65
         },
         {
-          "name": "Hydro Pump",
+          "name": "ハイドロポンプ",
           "type": "みず",
           "damage": 90
         },
         {
-          "name": "Ice Beam",
+          "name": "れいとうビーム",
           "type": "こおり",
           "damage": 65
         }
@@ -545,34 +545,34 @@
     "attacks": {
       "fast": [
         {
-          "name": "Bite",
+          "name": "かみつく",
           "type": "あく",
           "damage": 6
         },
         {
-          "name": "Water Gun",
+          "name": "みずでっぽう",
           "type": "みず",
           "damage": 6
         }
       ],
       "special": [
         {
-          "name": "Flash Cannon",
+          "name": "ラスターカノン",
           "type": "はがね",
           "damage": 60
         },
         {
-          "name": "Gunk Shot",
+          "name": "ダストシュート",
           "type": "どく",
           "damage": 65
         },
         {
-          "name": "Hydro Pump",
+          "name": "ハイドロポンプ",
           "type": "みず",
           "damage": 90
         },
         {
-          "name": "Ice Beam",
+          "name": "れいとうビーム",
           "type": "こおり",
           "damage": 65
         }
@@ -614,19 +614,19 @@
     "attacks": {
       "fast": [
         {
-          "name": "Bug Bite",
+          "name": "むしくい",
           "type": "むし",
           "damage": 5
         },
         {
-          "name": "Tackle",
+          "name": "たいあたり",
           "type": "ノーマル",
           "damage": 12
         }
       ],
       "special": [
         {
-          "name": "Struggle",
+          "name": "わるあがき",
           "type": "ノーマル",
           "damage": 15
         }
@@ -670,19 +670,19 @@
     "attacks": {
       "fast": [
         {
-          "name": "Bug Bite",
+          "name": "むしくい",
           "type": "むし",
           "damage": 5
         },
         {
-          "name": "Tackle",
+          "name": "たいあたり",
           "type": "ノーマル",
           "damage": 12
         }
       ],
       "special": [
         {
-          "name": "Struggle",
+          "name": "わるあがき",
           "type": "ノーマル",
           "damage": 15
         }
@@ -720,29 +720,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Bug Bite",
+          "name": "むしくい",
           "type": "むし",
           "damage": 5
         },
         {
-          "name": "Confusion",
+          "name": "ねんりき",
           "type": "エスパー",
           "damage": 15
         }
       ],
       "special": [
         {
-          "name": "Bug Buzz",
+          "name": "むしのさざめき",
           "type": "むし",
           "damage": 75
         },
         {
-          "name": "エスパー",
+          "name": "サイコキネシス",
           "type": "エスパー",
           "damage": 55
         },
         {
-          "name": "Signal Beam",
+          "name": "シグナルビーム",
           "type": "むし",
           "damage": 45
         }
@@ -784,19 +784,19 @@
     "attacks": {
       "fast": [
         {
-          "name": "Bug Bite",
+          "name": "むしくい",
           "type": "むし",
           "damage": 5
         },
         {
-          "name": "Poison Sting",
+          "name": "どくばり",
           "type": "どく",
           "damage": 6
         }
       ],
       "special": [
         {
-          "name": "Struggle",
+          "name": "わるあがき",
           "type": "ノーマル",
           "damage": 15
         }
@@ -840,19 +840,19 @@
     "attacks": {
       "fast": [
         {
-          "name": "Bug Bite",
+          "name": "むしくい",
           "type": "むし",
           "damage": 5
         },
         {
-          "name": "Poison Sting",
+          "name": "どくばり",
           "type": "どく",
           "damage": 6
         }
       ],
       "special": [
         {
-          "name": "Struggle",
+          "name": "わるあがき",
           "type": "ノーマル",
           "damage": 15
         }
@@ -890,29 +890,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Bug Bite",
+          "name": "むしくい",
           "type": "むし",
           "damage": 5
         },
         {
-          "name": "Poison Jab",
+          "name": "どくづき",
           "type": "どく",
           "damage": 12
         }
       ],
       "special": [
         {
-          "name": "Aerial Ace",
+          "name": "つばめがえし",
           "type": "ひこう",
           "damage": 30
         },
         {
-          "name": "Sludge Bomb",
+          "name": "ヘドロばくだん",
           "type": "どく",
           "damage": 55
         },
         {
-          "name": "X Scissor",
+          "name": "シザークロス",
           "type": "むし",
           "damage": 35
         }
@@ -954,29 +954,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Quick Attack",
+          "name": "でんこうせっか",
           "type": "ノーマル",
           "damage": 10
         },
         {
-          "name": "Tackle",
+          "name": "たいあたり",
           "type": "ノーマル",
           "damage": 12
         }
       ],
       "special": [
         {
-          "name": "Aerial Ace",
+          "name": "つばめがえし",
           "type": "ひこう",
           "damage": 30
         },
         {
-          "name": "Air Cutter",
+          "name": "エアカッター",
           "type": "ひこう",
           "damage": 30
         },
         {
-          "name": "Twister",
+          "name": "たつまき",
           "type": "ドラゴン",
           "damage": 25
         }
@@ -1020,29 +1020,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Steel Wing",
+          "name": "はがねのつばさ",
           "type": "はがね",
           "damage": 15
         },
         {
-          "name": "Wing Attack",
+          "name": "つばさでうつ",
           "type": "ひこう",
           "damage": 9
         }
       ],
       "special": [
         {
-          "name": "Aerial Ace",
+          "name": "つばめがえし",
           "type": "ひこう",
           "damage": 30
         },
         {
-          "name": "Air Cutter",
+          "name": "エアカッター",
           "type": "ひこう",
           "damage": 30
         },
         {
-          "name": "Twister",
+          "name": "たつまき",
           "type": "ドラゴン",
           "damage": 25
         }
@@ -1080,29 +1080,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Steel Wing",
+          "name": "はがねのつばさ",
           "type": "はがね",
           "damage": 15
         },
         {
-          "name": "Wing Attack",
+          "name": "つばさでうつ",
           "type": "ひこう",
           "damage": 9
         }
       ],
       "special": [
         {
-          "name": "Aerial Ace",
+          "name": "つばめがえし",
           "type": "ひこう",
           "damage": 30
         },
         {
-          "name": "Air Cutter",
+          "name": "エアカッター",
           "type": "ひこう",
           "damage": 30
         },
         {
-          "name": "Hurricane",
+          "name": "ぼうふう",
           "type": "ひこう",
           "damage": 80
         }
@@ -1140,29 +1140,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Quick Attack",
+          "name": "でんこうせっか",
           "type": "ノーマル",
           "damage": 10
         },
         {
-          "name": "Tackle",
+          "name": "たいあたり",
           "type": "ノーマル",
           "damage": 12
         }
       ],
       "special": [
         {
-          "name": "Body Slam",
+          "name": "のしかかり",
           "type": "ノーマル",
           "damage": 40
         },
         {
-          "name": "Dig",
+          "name": "あなをほる",
           "type": "じめん",
           "damage": 70
         },
         {
-          "name": "Hyper Fang",
+          "name": "ひっさつまえば",
           "type": "ノーマル",
           "damage": 35
         }
@@ -1196,29 +1196,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Bite",
+          "name": "かみつく",
           "type": "あく",
           "damage": 6
         },
         {
-          "name": "Quick Attack",
+          "name": "でんこうせっか",
           "type": "ノーマル",
           "damage": 10
         }
       ],
       "special": [
         {
-          "name": "Dig",
+          "name": "あなをほる",
           "type": "じめん",
           "damage": 70
         },
         {
-          "name": "Hyper Beam",
+          "name": "はかいこうせん",
           "type": "ノーマル",
           "damage": 120
         },
         {
-          "name": "Hyper Fang",
+          "name": "ひっさつまえば",
           "type": "ノーマル",
           "damage": 35
         }
@@ -1256,29 +1256,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Peck",
+          "name": "つつく",
           "type": "ひこう",
           "damage": 10
         },
         {
-          "name": "Quick Attack",
+          "name": "でんこうせっか",
           "type": "ノーマル",
           "damage": 10
         }
       ],
       "special": [
         {
-          "name": "Aerial Ace",
+          "name": "つばめがえし",
           "type": "ひこう",
           "damage": 30
         },
         {
-          "name": "Drill Peck",
+          "name": "ドリルくちばし",
           "type": "ひこう",
           "damage": 40
         },
         {
-          "name": "Twister",
+          "name": "たつまき",
           "type": "ドラゴン",
           "damage": 25
         }
@@ -1312,29 +1312,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Peck",
+          "name": "つつく",
           "type": "ひこう",
           "damage": 10
         },
         {
-          "name": "Steel Wing",
+          "name": "はがねのつばさ",
           "type": "はがね",
           "damage": 15
         }
       ],
       "special": [
         {
-          "name": "Aerial Ace",
+          "name": "つばめがえし",
           "type": "ひこう",
           "damage": 30
         },
         {
-          "name": "Drill Run",
+          "name": "ドリルライナー",
           "type": "じめん",
           "damage": 50
         },
         {
-          "name": "Twister",
+          "name": "たつまき",
           "type": "ドラゴン",
           "damage": 25
         }
@@ -1372,29 +1372,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Acid",
+          "name": "ようかいえき",
           "type": "どく",
           "damage": 10
         },
         {
-          "name": "Poison Sting",
+          "name": "どくばり",
           "type": "どく",
           "damage": 6
         }
       ],
       "special": [
         {
-          "name": "Gunk Shot",
+          "name": "ダストシュート",
           "type": "どく",
           "damage": 65
         },
         {
-          "name": "Sludge Bomb",
+          "name": "ヘドロばくだん",
           "type": "どく",
           "damage": 55
         },
         {
-          "name": "Wrap",
+          "name": "まきつく",
           "type": "ノーマル",
           "damage": 25
         }
@@ -1428,29 +1428,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Acid",
+          "name": "ようかいえき",
           "type": "どく",
           "damage": 10
         },
         {
-          "name": "Bite",
+          "name": "かみつく",
           "type": "あく",
           "damage": 6
         }
       ],
       "special": [
         {
-          "name": "Dark Pulse",
+          "name": "あくのはどう",
           "type": "あく",
           "damage": 45
         },
         {
-          "name": "Gunk Shot",
+          "name": "ダストシュート",
           "type": "どく",
           "damage": 65
         },
         {
-          "name": "Sludge Wave",
+          "name": "ヘドロウェーブ",
           "type": "どく",
           "damage": 70
         }
@@ -1488,29 +1488,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Quick Attack",
+          "name": "でんこうせっか",
           "type": "ノーマル",
           "damage": 10
         },
         {
-          "name": "Thunder Shock",
+          "name": "でんきショック",
           "type": "でんき",
           "damage": 5
         }
       ],
       "special": [
         {
-          "name": "Discharge",
+          "name": "ほうでん",
           "type": "でんき",
           "damage": 35
         },
         {
-          "name": "Thunder",
+          "name": "かみなり",
           "type": "でんき",
           "damage": 100
         },
         {
-          "name": "Thunderbolt",
+          "name": "10まんボルト",
           "type": "でんき",
           "damage": 55
         }
@@ -1544,29 +1544,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Spark",
+          "name": "スパーク",
           "type": "でんき",
           "damage": 7
         },
         {
-          "name": "Thunder Shock",
+          "name": "でんきショック",
           "type": "でんき",
           "damage": 5
         }
       ],
       "special": [
         {
-          "name": "Brick Break",
+          "name": "かわらわり",
           "type": "かくとう",
           "damage": 30
         },
         {
-          "name": "Thunder",
+          "name": "かみなり",
           "type": "でんき",
           "damage": 100
         },
         {
-          "name": "Thunder Punch",
+          "name": "かみなりパンチ",
           "type": "でんき",
           "damage": 40
         }
@@ -1604,29 +1604,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Mud Shot",
+          "name": "マッドショット",
           "type": "じめん",
           "damage": 6
         },
         {
-          "name": "Scratch",
+          "name": "ひっかく",
           "type": "ノーマル",
           "damage": 6
         }
       ],
       "special": [
         {
-          "name": "Dig",
+          "name": "あなをほる",
           "type": "じめん",
           "damage": 70
         },
         {
-          "name": "Rock Slide",
+          "name": "いわなだれ",
           "type": "いわ",
           "damage": 50
         },
         {
-          "name": "Rock Tomb",
+          "name": "がんせきふうじ",
           "type": "いわ",
           "damage": 30
         }
@@ -1660,29 +1660,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Metal Claw",
+          "name": "メタルクロー",
           "type": "はがね",
           "damage": 8
         },
         {
-          "name": "Mud Shot",
+          "name": "マッドショット",
           "type": "じめん",
           "damage": 6
         }
       ],
       "special": [
         {
-          "name": "Bulldoze",
+          "name": "じならし",
           "type": "じめん",
           "damage": 35
         },
         {
-          "name": "Earthquake",
+          "name": "じしん",
           "type": "じめん",
           "damage": 100
         },
         {
-          "name": "Rock Tomb",
+          "name": "がんせきふうじ",
           "type": "いわ",
           "damage": 30
         }
@@ -1724,29 +1724,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Bite",
+          "name": "かみつく",
           "type": "あく",
           "damage": 6
         },
         {
-          "name": "Poison Sting",
+          "name": "どくばり",
           "type": "どく",
           "damage": 6
         }
       ],
       "special": [
         {
-          "name": "Body Slam",
+          "name": "のしかかり",
           "type": "ノーマル",
           "damage": 40
         },
         {
-          "name": "Poison Fang",
+          "name": "どくどくのキバ",
           "type": "どく",
           "damage": 25
         },
         {
-          "name": "Sludge Bomb",
+          "name": "ヘドロばくだん",
           "type": "どく",
           "damage": 55
         }
@@ -1790,29 +1790,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Bite",
+          "name": "かみつく",
           "type": "あく",
           "damage": 6
         },
         {
-          "name": "Poison Sting",
+          "name": "どくばり",
           "type": "どく",
           "damage": 6
         }
       ],
       "special": [
         {
-          "name": "Dig",
+          "name": "あなをほる",
           "type": "じめん",
           "damage": 70
         },
         {
-          "name": "Poison Fang",
+          "name": "どくどくのキバ",
           "type": "どく",
           "damage": 25
         },
         {
-          "name": "Sludge Bomb",
+          "name": "ヘドロばくだん",
           "type": "どく",
           "damage": 55
         }
@@ -1850,29 +1850,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Bite",
+          "name": "かみつく",
           "type": "あく",
           "damage": 6
         },
         {
-          "name": "Poison Jab",
+          "name": "どくづき",
           "type": "どく",
           "damage": 12
         }
       ],
       "special": [
         {
-          "name": "Earthquake",
+          "name": "じしん",
           "type": "じめん",
           "damage": 100
         },
         {
-          "name": "Sludge Wave",
+          "name": "ヘドロウェーブ",
           "type": "どく",
           "damage": 70
         },
         {
-          "name": "Stone Edge",
+          "name": "ストーンエッジ",
           "type": "いわ",
           "damage": 80
         }
@@ -1914,29 +1914,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Peck",
+          "name": "つつく",
           "type": "ひこう",
           "damage": 10
         },
         {
-          "name": "Poison Sting",
+          "name": "どくばり",
           "type": "どく",
           "damage": 6
         }
       ],
       "special": [
         {
-          "name": "Body Slam",
+          "name": "のしかかり",
           "type": "ノーマル",
           "damage": 40
         },
         {
-          "name": "Horn Attack",
+          "name": "つのでつく",
           "type": "ノーマル",
           "damage": 25
         },
         {
-          "name": "Sludge Bomb",
+          "name": "ヘドロばくだん",
           "type": "どく",
           "damage": 55
         }
@@ -1980,29 +1980,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Bite",
+          "name": "かみつく",
           "type": "あく",
           "damage": 6
         },
         {
-          "name": "Poison Jab",
+          "name": "どくづき",
           "type": "どく",
           "damage": 12
         }
       ],
       "special": [
         {
-          "name": "Dig",
+          "name": "あなをほる",
           "type": "じめん",
           "damage": 70
         },
         {
-          "name": "Horn Attack",
+          "name": "つのでつく",
           "type": "ノーマル",
           "damage": 25
         },
         {
-          "name": "Sludge Bomb",
+          "name": "ヘドロばくだん",
           "type": "どく",
           "damage": 55
         }
@@ -2040,29 +2040,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Fury Cutter",
+          "name": "れんぞくぎり",
           "type": "むし",
           "damage": 3
         },
         {
-          "name": "Poison Jab",
+          "name": "どくづき",
           "type": "どく",
           "damage": 12
         }
       ],
       "special": [
         {
-          "name": "Earthquake",
+          "name": "じしん",
           "type": "じめん",
           "damage": 100
         },
         {
-          "name": "Megahorn",
+          "name": "メガホーン",
           "type": "むし",
           "damage": 80
         },
         {
-          "name": "Sludge Wave",
+          "name": "ヘドロウェーブ",
           "type": "どく",
           "damage": 70
         }
@@ -2100,19 +2100,19 @@
     "attacks": {
       "fast": [
         {
-          "name": "Pound",
+          "name": "はたく",
           "type": "ノーマル",
           "damage": 7
         },
         {
-          "name": "Zen Headbutt",
+          "name": "しねんのずつき",
           "type": "エスパー",
           "damage": 12
         }
       ],
       "special": [
         {
-          "name": "Body Slam",
+          "name": "のしかかり",
           "type": "ノーマル",
           "damage": 40
         },
@@ -2122,7 +2122,7 @@
           "damage": 25
         },
         {
-          "name": "Moonblast",
+          "name": "ムーンフォース",
           "type": "フェアリー",
           "damage": 85
         }
@@ -2156,29 +2156,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Pound",
+          "name": "はたく",
           "type": "ノーマル",
           "damage": 7
         },
         {
-          "name": "Zen Headbutt",
+          "name": "しねんのずつき",
           "type": "エスパー",
           "damage": 12
         }
       ],
       "special": [
         {
-          "name": "Dazzling Gleam",
+          "name": "マジカルシャイン",
           "type": "フェアリー",
           "damage": 55
         },
         {
-          "name": "Moonblast",
+          "name": "ムーンフォース",
           "type": "フェアリー",
           "damage": 85
         },
         {
-          "name": "エスパー",
+          "name": "サイコキネシス",
           "type": "エスパー",
           "damage": 55
         }
@@ -2216,29 +2216,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Ember",
+          "name": "ひのこ",
           "type": "ほのお",
           "damage": 10
         },
         {
-          "name": "Quick Attack",
+          "name": "でんこうせっか",
           "type": "ノーマル",
           "damage": 10
         }
       ],
       "special": [
         {
-          "name": "Body Slam",
+          "name": "のしかかり",
           "type": "ノーマル",
           "damage": 40
         },
         {
-          "name": "Flame Charge",
+          "name": "ニトロチャージ",
           "type": "ほのお",
           "damage": 25
         },
         {
-          "name": "Flamethrower",
+          "name": "かえんほうしゃ",
           "type": "ほのお",
           "damage": 55
         }
@@ -2272,29 +2272,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Ember",
+          "name": "ひのこ",
           "type": "ほのお",
           "damage": 10
         },
         {
-          "name": "Quick Attack",
+          "name": "でんこうせっか",
           "type": "ノーマル",
           "damage": 10
         }
       ],
       "special": [
         {
-          "name": "Fire Blast",
+          "name": "だいもんじ",
           "type": "ほのお",
           "damage": 100
         },
         {
-          "name": "Flamethrower",
+          "name": "かえんほうしゃ",
           "type": "ほのお",
           "damage": 55
         },
         {
-          "name": "Heat Wave",
+          "name": "ねっぷう",
           "type": "ほのお",
           "damage": 80
         }
@@ -2332,19 +2332,19 @@
     "attacks": {
       "fast": [
         {
-          "name": "Feint Attack",
+          "name": "だましうち",
           "type": "あく",
           "damage": 12
         },
         {
-          "name": "Pound",
+          "name": "はたく",
           "type": "ノーマル",
           "damage": 7
         }
       ],
       "special": [
         {
-          "name": "Body Slam",
+          "name": "のしかかり",
           "type": "ノーマル",
           "damage": 40
         },
@@ -2388,24 +2388,24 @@
     "attacks": {
       "fast": [
         {
-          "name": "Feint Attack",
+          "name": "だましうち",
           "type": "あく",
           "damage": 12
         },
         {
-          "name": "Pound",
+          "name": "はたく",
           "type": "ノーマル",
           "damage": 7
         }
       ],
       "special": [
         {
-          "name": "Dazzling Gleam",
+          "name": "マジカルシャイン",
           "type": "フェアリー",
           "damage": 55
         },
         {
-          "name": "Hyper Beam",
+          "name": "はかいこうせん",
           "type": "ノーマル",
           "damage": 120
         },
@@ -2448,29 +2448,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Bite",
+          "name": "かみつく",
           "type": "あく",
           "damage": 6
         },
         {
-          "name": "Quick Attack",
+          "name": "でんこうせっか",
           "type": "ノーマル",
           "damage": 10
         }
       ],
       "special": [
         {
-          "name": "Air Cutter",
+          "name": "エアカッター",
           "type": "ひこう",
           "damage": 30
         },
         {
-          "name": "Poison Fang",
+          "name": "どくどくのキバ",
           "type": "どく",
           "damage": 25
         },
         {
-          "name": "Sludge Bomb",
+          "name": "ヘドロばくだん",
           "type": "どく",
           "damage": 55
         }
@@ -2504,29 +2504,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Bite",
+          "name": "かみつく",
           "type": "あく",
           "damage": 6
         },
         {
-          "name": "Wing Attack",
+          "name": "つばさでうつ",
           "type": "ひこう",
           "damage": 9
         }
       ],
       "special": [
         {
-          "name": "Air Cutter",
+          "name": "エアカッター",
           "type": "ひこう",
           "damage": 30
         },
         {
-          "name": "Ominous Wind",
+          "name": "あやしいかぜ",
           "type": "ゴースト",
           "damage": 30
         },
         {
-          "name": "Poison Fang",
+          "name": "どくどくのキバ",
           "type": "どく",
           "damage": 25
         }
@@ -2568,29 +2568,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Acid",
+          "name": "ようかいえき",
           "type": "どく",
           "damage": 10
         },
         {
-          "name": "Razor Leaf",
+          "name": "はっぱカッター",
           "type": "くさ",
           "damage": 15
         }
       ],
       "special": [
         {
-          "name": "Moonblast",
+          "name": "ムーンフォース",
           "type": "フェアリー",
           "damage": 85
         },
         {
-          "name": "Seed Bomb",
+          "name": "タネばくだん",
           "type": "くさ",
           "damage": 40
         },
         {
-          "name": "Sludge Bomb",
+          "name": "ヘドロばくだん",
           "type": "どく",
           "damage": 55
         }
@@ -2634,29 +2634,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Acid",
+          "name": "ようかいえき",
           "type": "どく",
           "damage": 10
         },
         {
-          "name": "Razor Leaf",
+          "name": "はっぱカッター",
           "type": "くさ",
           "damage": 15
         }
       ],
       "special": [
         {
-          "name": "Moonblast",
+          "name": "ムーンフォース",
           "type": "フェアリー",
           "damage": 85
         },
         {
-          "name": "Petal Blizzard",
+          "name": "はなふぶき",
           "type": "くさ",
           "damage": 65
         },
         {
-          "name": "Sludge Bomb",
+          "name": "ヘドロばくだん",
           "type": "どく",
           "damage": 55
         }
@@ -2694,29 +2694,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Acid",
+          "name": "ようかいえき",
           "type": "どく",
           "damage": 10
         },
         {
-          "name": "Razor Leaf",
+          "name": "はっぱカッター",
           "type": "くさ",
           "damage": 15
         }
       ],
       "special": [
         {
-          "name": "Moonblast",
+          "name": "ムーンフォース",
           "type": "フェアリー",
           "damage": 85
         },
         {
-          "name": "Petal Blizzard",
+          "name": "はなふぶき",
           "type": "くさ",
           "damage": 65
         },
         {
-          "name": "Solar Beam",
+          "name": "ソーラービーム",
           "type": "くさ",
           "damage": 120
         }
@@ -2754,12 +2754,12 @@
     "attacks": {
       "fast": [
         {
-          "name": "Bug Bite",
+          "name": "むしくい",
           "type": "むし",
           "damage": 5
         },
         {
-          "name": "Scratch",
+          "name": "ひっかく",
           "type": "ノーマル",
           "damage": 6
         }
@@ -2771,12 +2771,12 @@
           "damage": 25
         },
         {
-          "name": "Seed Bomb",
+          "name": "タネばくだん",
           "type": "くさ",
           "damage": 40
         },
         {
-          "name": "X Scissor",
+          "name": "シザークロス",
           "type": "むし",
           "damage": 35
         }
@@ -2810,12 +2810,12 @@
     "attacks": {
       "fast": [
         {
-          "name": "Bug Bite",
+          "name": "むしくい",
           "type": "むし",
           "damage": 5
         },
         {
-          "name": "Fury Cutter",
+          "name": "れんぞくぎり",
           "type": "むし",
           "damage": 3
         }
@@ -2827,12 +2827,12 @@
           "damage": 25
         },
         {
-          "name": "Solar Beam",
+          "name": "ソーラービーム",
           "type": "くさ",
           "damage": 120
         },
         {
-          "name": "X Scissor",
+          "name": "シザークロス",
           "type": "むし",
           "damage": 35
         }
@@ -2870,29 +2870,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Bug Bite",
+          "name": "むしくい",
           "type": "むし",
           "damage": 5
         },
         {
-          "name": "Confusion",
+          "name": "ねんりき",
           "type": "エスパー",
           "damage": 15
         }
       ],
       "special": [
         {
-          "name": "Poison Fang",
+          "name": "どくどくのキバ",
           "type": "どく",
           "damage": 25
         },
         {
-          "name": "Psybeam",
+          "name": "サイケこうせん",
           "type": "エスパー",
           "damage": 40
         },
         {
-          "name": "Signal Beam",
+          "name": "シグナルビーム",
           "type": "むし",
           "damage": 45
         }
@@ -2926,29 +2926,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Bug Bite",
+          "name": "むしくい",
           "type": "むし",
           "damage": 5
         },
         {
-          "name": "Confusion",
+          "name": "ねんりき",
           "type": "エスパー",
           "damage": 15
         }
       ],
       "special": [
         {
-          "name": "Bug Buzz",
+          "name": "むしのさざめき",
           "type": "むし",
           "damage": 75
         },
         {
-          "name": "Poison Fang",
+          "name": "どくどくのキバ",
           "type": "どく",
           "damage": 25
         },
         {
-          "name": "エスパー",
+          "name": "サイコキネシス",
           "type": "エスパー",
           "damage": 55
         }
@@ -2986,29 +2986,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Mud Shot",
+          "name": "マッドショット",
           "type": "じめん",
           "damage": 6
         },
         {
-          "name": "Scratch",
+          "name": "ひっかく",
           "type": "ノーマル",
           "damage": 6
         }
       ],
       "special": [
         {
-          "name": "Dig",
+          "name": "あなをほる",
           "type": "じめん",
           "damage": 70
         },
         {
-          "name": "Mud Bomb",
+          "name": "どろばくだん",
           "type": "じめん",
           "damage": 30
         },
         {
-          "name": "Rock Tomb",
+          "name": "がんせきふうじ",
           "type": "いわ",
           "damage": 30
         }
@@ -3042,29 +3042,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Mud Shot",
+          "name": "マッドショット",
           "type": "じめん",
           "damage": 6
         },
         {
-          "name": "Sucker Punch",
+          "name": "ふいうち",
           "type": "あく",
           "damage": 7
         }
       ],
       "special": [
         {
-          "name": "Earthquake",
+          "name": "じしん",
           "type": "じめん",
           "damage": 100
         },
         {
-          "name": "Mud Bomb",
+          "name": "どろばくだん",
           "type": "じめん",
           "damage": 30
         },
         {
-          "name": "Stone Edge",
+          "name": "ストーンエッジ",
           "type": "いわ",
           "damage": 80
         }
@@ -3102,29 +3102,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Bite",
+          "name": "かみつく",
           "type": "あく",
           "damage": 6
         },
         {
-          "name": "Scratch",
+          "name": "ひっかく",
           "type": "ノーマル",
           "damage": 6
         }
       ],
       "special": [
         {
-          "name": "Body Slam",
+          "name": "のしかかり",
           "type": "ノーマル",
           "damage": 40
         },
         {
-          "name": "Dark Pulse",
+          "name": "あくのはどう",
           "type": "あく",
           "damage": 45
         },
         {
-          "name": "Night Slash",
+          "name": "つじぎり",
           "type": "あく",
           "damage": 30
         }
@@ -3158,19 +3158,19 @@
     "attacks": {
       "fast": [
         {
-          "name": "Feint Attack",
+          "name": "だましうち",
           "type": "あく",
           "damage": 12
         },
         {
-          "name": "Scratch",
+          "name": "ひっかく",
           "type": "ノーマル",
           "damage": 6
         }
       ],
       "special": [
         {
-          "name": "Night Slash",
+          "name": "つじぎり",
           "type": "あく",
           "damage": 30
         },
@@ -3180,7 +3180,7 @@
           "damage": 55
         },
         {
-          "name": "Power Gem",
+          "name": "パワージェム",
           "type": "いわ",
           "damage": 40
         }
@@ -3218,29 +3218,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Water Gun",
+          "name": "みずでっぽう",
           "type": "みず",
           "damage": 6
         },
         {
-          "name": "Zen Headbutt",
+          "name": "しねんのずつき",
           "type": "エスパー",
           "damage": 12
         }
       ],
       "special": [
         {
-          "name": "Aqua Tail",
+          "name": "アクアテール",
           "type": "みず",
           "damage": 45
         },
         {
-          "name": "Cross Chop",
+          "name": "クロスチョップ",
           "type": "かくとう",
           "damage": 60
         },
         {
-          "name": "Psybeam",
+          "name": "サイケこうせん",
           "type": "エスパー",
           "damage": 40
         }
@@ -3274,34 +3274,34 @@
     "attacks": {
       "fast": [
         {
-          "name": "Confusion",
+          "name": "ねんりき",
           "type": "エスパー",
           "damage": 15
         },
         {
-          "name": "Zen Headbutt",
+          "name": "しねんのずつき",
           "type": "エスパー",
           "damage": 12
         }
       ],
       "special": [
         {
-          "name": "Gunk Shot",
+          "name": "ダストシュート",
           "type": "どく",
           "damage": 65
         },
         {
-          "name": "Hydro Pump",
+          "name": "ハイドロポンプ",
           "type": "みず",
           "damage": 90
         },
         {
-          "name": "Ice Beam",
+          "name": "れいとうビーム",
           "type": "こおり",
           "damage": 65
         },
         {
-          "name": "エスパー",
+          "name": "サイコキネシス",
           "type": "エスパー",
           "damage": 55
         }
@@ -3339,29 +3339,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Karate Chop",
+          "name": "からてチョップ",
           "type": "かくとう",
           "damage": 6
         },
         {
-          "name": "Scratch",
+          "name": "ひっかく",
           "type": "ノーマル",
           "damage": 6
         }
       ],
       "special": [
         {
-          "name": "Brick Break",
+          "name": "かわらわり",
           "type": "かくとう",
           "damage": 30
         },
         {
-          "name": "Cross Chop",
+          "name": "クロスチョップ",
           "type": "かくとう",
           "damage": 60
         },
         {
-          "name": "Low Sweep",
+          "name": "ローキック",
           "type": "かくとう",
           "damage": 30
         }
@@ -3395,29 +3395,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Karate Chop",
+          "name": "からてチョップ",
           "type": "かくとう",
           "damage": 6
         },
         {
-          "name": "Low Kick",
+          "name": "けたぐり",
           "type": "かくとう",
           "damage": 5
         }
       ],
       "special": [
         {
-          "name": "Cross Chop",
+          "name": "クロスチョップ",
           "type": "かくとう",
           "damage": 60
         },
         {
-          "name": "Low Sweep",
+          "name": "ローキック",
           "type": "かくとう",
           "damage": 30
         },
         {
-          "name": "Night Slash",
+          "name": "つじぎり",
           "type": "あく",
           "damage": 30
         }
@@ -3455,29 +3455,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Bite",
+          "name": "かみつく",
           "type": "あく",
           "damage": 6
         },
         {
-          "name": "Ember",
+          "name": "ひのこ",
           "type": "ほのお",
           "damage": 10
         }
       ],
       "special": [
         {
-          "name": "Body Slam",
+          "name": "のしかかり",
           "type": "ノーマル",
           "damage": 40
         },
         {
-          "name": "Flame Wheel",
+          "name": "かえんぐるま",
           "type": "ほのお",
           "damage": 40
         },
         {
-          "name": "Flamethrower",
+          "name": "かえんほうしゃ",
           "type": "ほのお",
           "damage": 55
         }
@@ -3511,29 +3511,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Bite",
+          "name": "かみつく",
           "type": "あく",
           "damage": 6
         },
         {
-          "name": "Fire Fang",
+          "name": "ほのおのキバ",
           "type": "ほのお",
           "damage": 10
         }
       ],
       "special": [
         {
-          "name": "Bulldoze",
+          "name": "じならし",
           "type": "じめん",
           "damage": 35
         },
         {
-          "name": "Fire Blast",
+          "name": "だいもんじ",
           "type": "ほのお",
           "damage": 100
         },
         {
-          "name": "Flamethrower",
+          "name": "かえんほうしゃ",
           "type": "ほのお",
           "damage": 55
         }
@@ -3575,29 +3575,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Bubble",
+          "name": "あわ",
           "type": "みず",
           "damage": 25
         },
         {
-          "name": "Mud Shot",
+          "name": "マッドショット",
           "type": "じめん",
           "damage": 6
         }
       ],
       "special": [
         {
-          "name": "Body Slam",
+          "name": "のしかかり",
           "type": "ノーマル",
           "damage": 40
         },
         {
-          "name": "Bubble Beam",
+          "name": "バブルこうせん",
           "type": "みず",
           "damage": 30
         },
         {
-          "name": "Mud Bomb",
+          "name": "どろばくだん",
           "type": "じめん",
           "damage": 30
         }
@@ -3641,24 +3641,24 @@
     "attacks": {
       "fast": [
         {
-          "name": "Bubble",
+          "name": "あわ",
           "type": "みず",
           "damage": 25
         },
         {
-          "name": "Mud Shot",
+          "name": "マッドショット",
           "type": "じめん",
           "damage": 6
         }
       ],
       "special": [
         {
-          "name": "Bubble Beam",
+          "name": "バブルこうせん",
           "type": "みず",
           "damage": 30
         },
         {
-          "name": "Mud Bomb",
+          "name": "どろばくだん",
           "type": "じめん",
           "damage": 30
         },
@@ -3701,29 +3701,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Bubble",
+          "name": "あわ",
           "type": "みず",
           "damage": 25
         },
         {
-          "name": "Mud Shot",
+          "name": "マッドショット",
           "type": "じめん",
           "damage": 6
         }
       ],
       "special": [
         {
-          "name": "Hydro Pump",
+          "name": "ハイドロポンプ",
           "type": "みず",
           "damage": 90
         },
         {
-          "name": "Ice Punch",
+          "name": "れいとうパンチ",
           "type": "こおり",
           "damage": 45
         },
         {
-          "name": "Submission",
+          "name": "じごくぐるま",
           "type": "かくとう",
           "damage": 30
         }
@@ -3766,24 +3766,24 @@
       "fast": [
         {},
         {
-          "name": "Zen Headbutt",
+          "name": "しねんのずつき",
           "type": "エスパー",
           "damage": 12
         }
       ],
       "special": [
         {
-          "name": "Psyshock",
+          "name": "サイコショック",
           "type": "エスパー",
           "damage": 40
         },
         {
-          "name": "Shadow Ball",
+          "name": "シャドーボール",
           "type": "ゴースト",
           "damage": 45
         },
         {
-          "name": "Signal Beam",
+          "name": "シグナルビーム",
           "type": "むし",
           "damage": 45
         }
@@ -3827,29 +3827,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Confusion",
+          "name": "ねんりき",
           "type": "エスパー",
           "damage": 15
         },
         {
-          "name": "Psycho Cut",
+          "name": "サイコカッター",
           "type": "エスパー",
           "damage": 7
         }
       ],
       "special": [
         {
-          "name": "Dazzling Gleam",
+          "name": "マジカルシャイン",
           "type": "フェアリー",
           "damage": 55
         },
         {
-          "name": "Psybeam",
+          "name": "サイケこうせん",
           "type": "エスパー",
           "damage": 40
         },
         {
-          "name": "Shadow Ball",
+          "name": "シャドーボール",
           "type": "ゴースト",
           "damage": 45
         }
@@ -3887,29 +3887,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Confusion",
+          "name": "ねんりき",
           "type": "エスパー",
           "damage": 15
         },
         {
-          "name": "Psycho Cut",
+          "name": "サイコカッター",
           "type": "エスパー",
           "damage": 7
         }
       ],
       "special": [
         {
-          "name": "Dazzling Gleam",
+          "name": "マジカルシャイン",
           "type": "フェアリー",
           "damage": 55
         },
         {
-          "name": "エスパー",
+          "name": "サイコキネシス",
           "type": "エスパー",
           "damage": 55
         },
         {
-          "name": "Shadow Ball",
+          "name": "シャドーボール",
           "type": "ゴースト",
           "damage": 45
         }
@@ -3951,29 +3951,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Karate Chop",
+          "name": "からてチョップ",
           "type": "かくとう",
           "damage": 6
         },
         {
-          "name": "Low Kick",
+          "name": "けたぐり",
           "type": "かくとう",
           "damage": 5
         }
       ],
       "special": [
         {
-          "name": "Brick Break",
+          "name": "かわらわり",
           "type": "かくとう",
           "damage": 30
         },
         {
-          "name": "Cross Chop",
+          "name": "クロスチョップ",
           "type": "かくとう",
           "damage": 60
         },
         {
-          "name": "Low Sweep",
+          "name": "ローキック",
           "type": "かくとう",
           "damage": 30
         }
@@ -4017,29 +4017,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Karate Chop",
+          "name": "からてチョップ",
           "type": "かくとう",
           "damage": 6
         },
         {
-          "name": "Low Kick",
+          "name": "けたぐり",
           "type": "かくとう",
           "damage": 5
         }
       ],
       "special": [
         {
-          "name": "Brick Break",
+          "name": "かわらわり",
           "type": "かくとう",
           "damage": 30
         },
         {
-          "name": "Cross Chop",
+          "name": "クロスチョップ",
           "type": "かくとう",
           "damage": 60
         },
         {
-          "name": "Submission",
+          "name": "じごくぐるま",
           "type": "かくとう",
           "damage": 30
         }
@@ -4077,29 +4077,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Bullet Punch",
+          "name": "バレットパンチ",
           "type": "はがね",
           "damage": 10
         },
         {
-          "name": "Karate Chop",
+          "name": "からてチョップ",
           "type": "かくとう",
           "damage": 6
         }
       ],
       "special": [
         {
-          "name": "Cross Chop",
+          "name": "クロスチョップ",
           "type": "かくとう",
           "damage": 60
         },
         {
-          "name": "Stone Edge",
+          "name": "ストーンエッジ",
           "type": "いわ",
           "damage": 80
         },
         {
-          "name": "Submission",
+          "name": "じごくぐるま",
           "type": "かくとう",
           "damage": 30
         }
@@ -4141,29 +4141,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Acid",
+          "name": "ようかいえき",
           "type": "どく",
           "damage": 10
         },
         {
-          "name": "Vine Whip",
+          "name": "つるのムチ",
           "type": "くさ",
           "damage": 7
         }
       ],
       "special": [
         {
-          "name": "Power Whip",
+          "name": "パワーウィップ",
           "type": "くさ",
           "damage": 70
         },
         {
-          "name": "Sludge Bomb",
+          "name": "ヘドロばくだん",
           "type": "どく",
           "damage": 55
         },
         {
-          "name": "Wrap",
+          "name": "まきつく",
           "type": "ノーマル",
           "damage": 25
         }
@@ -4207,29 +4207,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Acid",
+          "name": "ようかいえき",
           "type": "どく",
           "damage": 10
         },
         {
-          "name": "Razor Leaf",
+          "name": "はっぱカッター",
           "type": "くさ",
           "damage": 15
         }
       ],
       "special": [
         {
-          "name": "Power Whip",
+          "name": "パワーウィップ",
           "type": "くさ",
           "damage": 70
         },
         {
-          "name": "Seed Bomb",
+          "name": "タネばくだん",
           "type": "くさ",
           "damage": 40
         },
         {
-          "name": "Sludge Bomb",
+          "name": "ヘドロばくだん",
           "type": "どく",
           "damage": 55
         }
@@ -4267,29 +4267,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Acid",
+          "name": "ようかいえき",
           "type": "どく",
           "damage": 10
         },
         {
-          "name": "Razor Leaf",
+          "name": "はっぱカッター",
           "type": "くさ",
           "damage": 15
         }
       ],
       "special": [
         {
-          "name": "Leaf Blade",
+          "name": "リーフブレード",
           "type": "くさ",
           "damage": 55
         },
         {
-          "name": "Sludge Bomb",
+          "name": "ヘドロばくだん",
           "type": "どく",
           "damage": 55
         },
         {
-          "name": "Solar Beam",
+          "name": "ソーラービーム",
           "type": "くさ",
           "damage": 120
         }
@@ -4336,29 +4336,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Bubble",
+          "name": "あわ",
           "type": "みず",
           "damage": 25
         },
         {
-          "name": "Poison Sting",
+          "name": "どくばり",
           "type": "どく",
           "damage": 6
         }
       ],
       "special": [
         {
-          "name": "Bubble Beam",
+          "name": "バブルこうせん",
           "type": "みず",
           "damage": 30
         },
         {
-          "name": "Water Pulse",
+          "name": "みずのはどう",
           "type": "みず",
           "damage": 35
         },
         {
-          "name": "Wrap",
+          "name": "まきつく",
           "type": "ノーマル",
           "damage": 25
         }
@@ -4401,29 +4401,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Acid",
+          "name": "ようかいえき",
           "type": "どく",
           "damage": 10
         },
         {
-          "name": "Poison Jab",
+          "name": "どくづき",
           "type": "どく",
           "damage": 12
         }
       ],
       "special": [
         {
-          "name": "Blizzard",
+          "name": "ふぶき",
           "type": "こおり",
           "damage": 100
         },
         {
-          "name": "Hydro Pump",
+          "name": "ハイドロポンプ",
           "type": "みず",
           "damage": 90
         },
         {
-          "name": "Sludge Wave",
+          "name": "ヘドロウェーブ",
           "type": "どく",
           "damage": 70
         }
@@ -4465,29 +4465,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Rock Throw",
+          "name": "いわおとし",
           "type": "いわ",
           "damage": 12
         },
         {
-          "name": "Tackle",
+          "name": "たいあたり",
           "type": "ノーマル",
           "damage": 12
         }
       ],
       "special": [
         {
-          "name": "Dig",
+          "name": "あなをほる",
           "type": "じめん",
           "damage": 70
         },
         {
-          "name": "Rock Slide",
+          "name": "いわなだれ",
           "type": "いわ",
           "damage": 50
         },
         {
-          "name": "Rock Tomb",
+          "name": "がんせきふうじ",
           "type": "いわ",
           "damage": 30
         }
@@ -4531,29 +4531,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Mud Shot",
+          "name": "マッドショット",
           "type": "じめん",
           "damage": 6
         },
         {
-          "name": "Rock Throw",
+          "name": "いわおとし",
           "type": "いわ",
           "damage": 12
         }
       ],
       "special": [
         {
-          "name": "Dig",
+          "name": "あなをほる",
           "type": "じめん",
           "damage": 70
         },
         {
-          "name": "Rock Slide",
+          "name": "いわなだれ",
           "type": "いわ",
           "damage": 50
         },
         {
-          "name": "Stone Edge",
+          "name": "ストーンエッジ",
           "type": "いわ",
           "damage": 80
         }
@@ -4591,29 +4591,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Mud Shot",
+          "name": "マッドショット",
           "type": "じめん",
           "damage": 6
         },
         {
-          "name": "Rock Throw",
+          "name": "いわおとし",
           "type": "いわ",
           "damage": 12
         }
       ],
       "special": [
         {
-          "name": "Ancient Power",
+          "name": "げんしのちから",
           "type": "いわ",
           "damage": 35
         },
         {
-          "name": "Earthquake",
+          "name": "じしん",
           "type": "じめん",
           "damage": 100
         },
         {
-          "name": "Stone Edge",
+          "name": "ストーンエッジ",
           "type": "いわ",
           "damage": 80
         }
@@ -4651,29 +4651,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Ember",
+          "name": "ひのこ",
           "type": "ほのお",
           "damage": 10
         },
         {
-          "name": "Tackle",
+          "name": "たいあたり",
           "type": "ノーマル",
           "damage": 12
         }
       ],
       "special": [
         {
-          "name": "Fire Blast",
+          "name": "だいもんじ",
           "type": "ほのお",
           "damage": 100
         },
         {
-          "name": "Flame Charge",
+          "name": "ニトロチャージ",
           "type": "ほのお",
           "damage": 25
         },
         {
-          "name": "Flame Wheel",
+          "name": "かえんぐるま",
           "type": "ほのお",
           "damage": 40
         }
@@ -4707,29 +4707,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Ember",
+          "name": "ひのこ",
           "type": "ほのお",
           "damage": 10
         },
         {
-          "name": "Low Kick",
+          "name": "けたぐり",
           "type": "かくとう",
           "damage": 5
         }
       ],
       "special": [
         {
-          "name": "Drill Run",
+          "name": "ドリルライナー",
           "type": "じめん",
           "damage": 50
         },
         {
-          "name": "Fire Blast",
+          "name": "だいもんじ",
           "type": "ほのお",
           "damage": 100
         },
         {
-          "name": "Heat Wave",
+          "name": "ねっぷう",
           "type": "ほのお",
           "damage": 80
         }
@@ -4767,29 +4767,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Confusion",
+          "name": "ねんりき",
           "type": "エスパー",
           "damage": 15
         },
         {
-          "name": "Water Gun",
+          "name": "みずでっぽう",
           "type": "みず",
           "damage": 6
         }
       ],
       "special": [
         {
-          "name": "エスパー",
+          "name": "サイコキネシス",
           "type": "エスパー",
           "damage": 55
         },
         {
-          "name": "Psyshock",
+          "name": "サイコショック",
           "type": "エスパー",
           "damage": 40
         },
         {
-          "name": "Water Pulse",
+          "name": "みずのはどう",
           "type": "みず",
           "damage": 35
         }
@@ -4823,29 +4823,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Confusion",
+          "name": "ねんりき",
           "type": "エスパー",
           "damage": 15
         },
         {
-          "name": "Water Gun",
+          "name": "みずでっぽう",
           "type": "みず",
           "damage": 6
         }
       ],
       "special": [
         {
-          "name": "Ice Beam",
+          "name": "れいとうビーム",
           "type": "こおり",
           "damage": 65
         },
         {
-          "name": "エスパー",
+          "name": "サイコキネシス",
           "type": "エスパー",
           "damage": 55
         },
         {
-          "name": "Water Pulse",
+          "name": "みずのはどう",
           "type": "みず",
           "damage": 35
         }
@@ -4896,29 +4896,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Spark",
+          "name": "スパーク",
           "type": "でんき",
           "damage": 7
         },
         {
-          "name": "Thunder Shock",
+          "name": "でんきショック",
           "type": "でんき",
           "damage": 5
         }
       ],
       "special": [
         {
-          "name": "Discharge",
+          "name": "ほうでん",
           "type": "でんき",
           "damage": 35
         },
         {
-          "name": "Magnet Bomb",
+          "name": "マグネットボム",
           "type": "はがね",
           "damage": 30
         },
         {
-          "name": "Thunderbolt",
+          "name": "10まんボルト",
           "type": "でんき",
           "damage": 55
         }
@@ -4965,29 +4965,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Spark",
+          "name": "スパーク",
           "type": "でんき",
           "damage": 7
         },
         {
-          "name": "Thunder Shock",
+          "name": "でんきショック",
           "type": "でんき",
           "damage": 5
         }
       ],
       "special": [
         {
-          "name": "Discharge",
+          "name": "ほうでん",
           "type": "でんき",
           "damage": 35
         },
         {
-          "name": "Flash Cannon",
+          "name": "ラスターカノン",
           "type": "はがね",
           "damage": 60
         },
         {
-          "name": "Magnet Bomb",
+          "name": "マグネットボム",
           "type": "はがね",
           "damage": 30
         }
@@ -5018,24 +5018,24 @@
       "fast": [
         {},
         {
-          "name": "Fury Cutter",
+          "name": "れんぞくぎり",
           "type": "むし",
           "damage": 3
         }
       ],
       "special": [
         {
-          "name": "Aerial Ace",
+          "name": "つばめがえし",
           "type": "ひこう",
           "damage": 30
         },
         {
-          "name": "Air Cutter",
+          "name": "エアカッター",
           "type": "ひこう",
           "damage": 30
         },
         {
-          "name": "Leaf Blade",
+          "name": "リーフブレード",
           "type": "くさ",
           "damage": 55
         }
@@ -5073,29 +5073,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Peck",
+          "name": "つつく",
           "type": "ひこう",
           "damage": 10
         },
         {
-          "name": "Quick Attack",
+          "name": "でんこうせっか",
           "type": "ノーマル",
           "damage": 10
         }
       ],
       "special": [
         {
-          "name": "Aerial Ace",
+          "name": "つばめがえし",
           "type": "ひこう",
           "damage": 30
         },
         {
-          "name": "Drill Peck",
+          "name": "ドリルくちばし",
           "type": "ひこう",
           "damage": 40
         },
         {
-          "name": "Swift",
+          "name": "スピードスター",
           "type": "ノーマル",
           "damage": 30
         }
@@ -5129,29 +5129,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Feint Attack",
+          "name": "だましうち",
           "type": "あく",
           "damage": 12
         },
         {
-          "name": "Steel Wing",
+          "name": "はがねのつばさ",
           "type": "はがね",
           "damage": 15
         }
       ],
       "special": [
         {
-          "name": "Aerial Ace",
+          "name": "つばめがえし",
           "type": "ひこう",
           "damage": 30
         },
         {
-          "name": "Air Cutter",
+          "name": "エアカッター",
           "type": "ひこう",
           "damage": 30
         },
         {
-          "name": "Drill Peck",
+          "name": "ドリルくちばし",
           "type": "ひこう",
           "damage": 40
         }
@@ -5189,29 +5189,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Ice Shard",
+          "name": "こおりのつぶて",
           "type": "こおり",
           "damage": 15
         },
         {
-          "name": "Water Gun",
+          "name": "みずでっぽう",
           "type": "みず",
           "damage": 6
         }
       ],
       "special": [
         {
-          "name": "Aqua Jet",
+          "name": "アクアジェット",
           "type": "みず",
           "damage": 25
         },
         {
-          "name": "Aqua Tail",
+          "name": "アクアテール",
           "type": "みず",
           "damage": 45
         },
         {
-          "name": "Icy Wind",
+          "name": "こごえるかぜ",
           "type": "こおり",
           "damage": 25
         }
@@ -5245,29 +5245,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Frost Breath",
+          "name": "こおりのいぶき",
           "type": "こおり",
           "damage": 9
         },
         {
-          "name": "Ice Shard",
+          "name": "こおりのつぶて",
           "type": "こおり",
           "damage": 15
         }
       ],
       "special": [
         {
-          "name": "Aqua Jet",
+          "name": "アクアジェット",
           "type": "みず",
           "damage": 25
         },
         {
-          "name": "Blizzard",
+          "name": "ふぶき",
           "type": "こおり",
           "damage": 100
         },
         {
-          "name": "Icy Wind",
+          "name": "こごえるかぜ",
           "type": "こおり",
           "damage": 25
         }
@@ -5305,29 +5305,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Acid",
+          "name": "ようかいえき",
           "type": "どく",
           "damage": 10
         },
         {
-          "name": "Mud Slap",
+          "name": "どろかけ",
           "type": "じめん",
           "damage": 15
         }
       ],
       "special": [
         {
-          "name": "Mud Bomb",
+          "name": "どろばくだん",
           "type": "じめん",
           "damage": 30
         },
         {
-          "name": "Sludge",
+          "name": "ヘドロこうげき",
           "type": "どく",
           "damage": 30
         },
         {
-          "name": "Sludge Bomb",
+          "name": "ヘドロばくだん",
           "type": "どく",
           "damage": 55
         }
@@ -5361,29 +5361,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Acid",
+          "name": "ようかいえき",
           "type": "どく",
           "damage": 10
         },
         {
-          "name": "Poison Jab",
+          "name": "どくづき",
           "type": "どく",
           "damage": 12
         }
       ],
       "special": [
         {
-          "name": "Dark Pulse",
+          "name": "あくのはどう",
           "type": "あく",
           "damage": 45
         },
         {
-          "name": "Gunk Shot",
+          "name": "ダストシュート",
           "type": "どく",
           "damage": 65
         },
         {
-          "name": "Sludge Wave",
+          "name": "ヘドロウェーブ",
           "type": "どく",
           "damage": 70
         }
@@ -5421,29 +5421,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Ice Shard",
+          "name": "こおりのつぶて",
           "type": "こおり",
           "damage": 15
         },
         {
-          "name": "Tackle",
+          "name": "たいあたり",
           "type": "ノーマル",
           "damage": 12
         }
       ],
       "special": [
         {
-          "name": "Bubble Beam",
+          "name": "バブルこうせん",
           "type": "みず",
           "damage": 30
         },
         {
-          "name": "Icy Wind",
+          "name": "こごえるかぜ",
           "type": "こおり",
           "damage": 25
         },
         {
-          "name": "Water Pulse",
+          "name": "みずのはどう",
           "type": "みず",
           "damage": 35
         }
@@ -5477,29 +5477,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Frost Breath",
+          "name": "こおりのいぶき",
           "type": "こおり",
           "damage": 9
         },
         {
-          "name": "Ice Shard",
+          "name": "こおりのつぶて",
           "type": "こおり",
           "damage": 15
         }
       ],
       "special": [
         {
-          "name": "Blizzard",
+          "name": "ふぶき",
           "type": "こおり",
           "damage": 100
         },
         {
-          "name": "Hydro Pump",
+          "name": "ハイドロポンプ",
           "type": "みず",
           "damage": 90
         },
         {
-          "name": "Icy Wind",
+          "name": "こごえるかぜ",
           "type": "こおり",
           "damage": 25
         }
@@ -5541,29 +5541,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Lick",
+          "name": "したでなめる",
           "type": "ゴースト",
           "damage": 5
         },
         {
-          "name": "Sucker Punch",
+          "name": "ふいうち",
           "type": "あく",
           "damage": 7
         }
       ],
       "special": [
         {
-          "name": "Dark Pulse",
+          "name": "あくのはどう",
           "type": "あく",
           "damage": 45
         },
         {
-          "name": "Ominous Wind",
+          "name": "あやしいかぜ",
           "type": "ゴースト",
           "damage": 30
         },
         {
-          "name": "Sludge Bomb",
+          "name": "ヘドロばくだん",
           "type": "どく",
           "damage": 55
         }
@@ -5607,29 +5607,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Lick",
+          "name": "したでなめる",
           "type": "ゴースト",
           "damage": 5
         },
         {
-          "name": "Shadow Claw",
+          "name": "シャドークロー",
           "type": "ゴースト",
           "damage": 11
         }
       ],
       "special": [
         {
-          "name": "Dark Pulse",
+          "name": "あくのはどう",
           "type": "あく",
           "damage": 45
         },
         {
-          "name": "Shadow Ball",
+          "name": "シャドーボール",
           "type": "ゴースト",
           "damage": 45
         },
         {
-          "name": "Sludge Bomb",
+          "name": "ヘドロばくだん",
           "type": "どく",
           "damage": 55
         }
@@ -5667,29 +5667,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Shadow Claw",
+          "name": "シャドークロー",
           "type": "ゴースト",
           "damage": 11
         },
         {
-          "name": "Sucker Punch",
+          "name": "ふいうち",
           "type": "あく",
           "damage": 7
         }
       ],
       "special": [
         {
-          "name": "Dark Pulse",
+          "name": "あくのはどう",
           "type": "あく",
           "damage": 45
         },
         {
-          "name": "Shadow Ball",
+          "name": "シャドーボール",
           "type": "ゴースト",
           "damage": 45
         },
         {
-          "name": "Sludge Wave",
+          "name": "ヘドロウェーブ",
           "type": "どく",
           "damage": 70
         }
@@ -5717,29 +5717,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Rock Throw",
+          "name": "いわおとし",
           "type": "いわ",
           "damage": 12
         },
         {
-          "name": "Tackle",
+          "name": "たいあたり",
           "type": "ノーマル",
           "damage": 12
         }
       ],
       "special": [
         {
-          "name": "Iron Head",
+          "name": "アイアンヘッド",
           "type": "はがね",
           "damage": 30
         },
         {
-          "name": "Rock Slide",
+          "name": "いわなだれ",
           "type": "いわ",
           "damage": 50
         },
         {
-          "name": "Stone Edge",
+          "name": "ストーンエッジ",
           "type": "いわ",
           "damage": 80
         }
@@ -5777,29 +5777,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Confusion",
+          "name": "ねんりき",
           "type": "エスパー",
           "damage": 15
         },
         {
-          "name": "Pound",
+          "name": "はたく",
           "type": "ノーマル",
           "damage": 7
         }
       ],
       "special": [
         {
-          "name": "Psybeam",
+          "name": "サイケこうせん",
           "type": "エスパー",
           "damage": 40
         },
         {
-          "name": "エスパー",
+          "name": "サイコキネシス",
           "type": "エスパー",
           "damage": 55
         },
         {
-          "name": "Psyshock",
+          "name": "サイコショック",
           "type": "エスパー",
           "damage": 40
         }
@@ -5833,29 +5833,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Confusion",
+          "name": "ねんりき",
           "type": "エスパー",
           "damage": 15
         },
         {
-          "name": "Zen Headbutt",
+          "name": "しねんのずつき",
           "type": "エスパー",
           "damage": 12
         }
       ],
       "special": [
         {
-          "name": "エスパー",
+          "name": "サイコキネシス",
           "type": "エスパー",
           "damage": 55
         },
         {
-          "name": "Psyshock",
+          "name": "サイコショック",
           "type": "エスパー",
           "damage": 40
         },
         {
-          "name": "Shadow Ball",
+          "name": "シャドーボール",
           "type": "ゴースト",
           "damage": 45
         }
@@ -5893,29 +5893,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Bubble",
+          "name": "あわ",
           "type": "みず",
           "damage": 25
         },
         {
-          "name": "Mud Shot",
+          "name": "マッドショット",
           "type": "じめん",
           "damage": 6
         }
       ],
       "special": [
         {
-          "name": "Bubble Beam",
+          "name": "バブルこうせん",
           "type": "みず",
           "damage": 30
         },
         {
-          "name": "Vice Grip",
+          "name": "はさむ",
           "type": "ノーマル",
           "damage": 25
         },
         {
-          "name": "Water Pulse",
+          "name": "みずのはどう",
           "type": "みず",
           "damage": 35
         }
@@ -5949,29 +5949,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Metal Claw",
+          "name": "メタルクロー",
           "type": "はがね",
           "damage": 8
         },
         {
-          "name": "Mud Shot",
+          "name": "マッドショット",
           "type": "じめん",
           "damage": 6
         }
       ],
       "special": [
         {
-          "name": "Vice Grip",
+          "name": "はさむ",
           "type": "ノーマル",
           "damage": 25
         },
         {
-          "name": "Water Pulse",
+          "name": "みずのはどう",
           "type": "みず",
           "damage": 35
         },
         {
-          "name": "X Scissor",
+          "name": "シザークロス",
           "type": "むし",
           "damage": 35
         }
@@ -6009,29 +6009,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Spark",
+          "name": "スパーク",
           "type": "でんき",
           "damage": 7
         },
         {
-          "name": "Tackle",
+          "name": "たいあたり",
           "type": "ノーマル",
           "damage": 12
         }
       ],
       "special": [
         {
-          "name": "Discharge",
+          "name": "ほうでん",
           "type": "でんき",
           "damage": 35
         },
         {
-          "name": "Signal Beam",
+          "name": "シグナルビーム",
           "type": "むし",
           "damage": 45
         },
         {
-          "name": "Thunderbolt",
+          "name": "10まんボルト",
           "type": "でんき",
           "damage": 55
         }
@@ -6065,29 +6065,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Spark",
+          "name": "スパーク",
           "type": "でんき",
           "damage": 7
         },
         {
-          "name": "Tackle",
+          "name": "たいあたり",
           "type": "ノーマル",
           "damage": 12
         }
       ],
       "special": [
         {
-          "name": "Discharge",
+          "name": "ほうでん",
           "type": "でんき",
           "damage": 35
         },
         {
-          "name": "Hyper Beam",
+          "name": "はかいこうせん",
           "type": "ノーマル",
           "damage": 120
         },
         {
-          "name": "Thunderbolt",
+          "name": "10まんボルト",
           "type": "でんき",
           "damage": 55
         }
@@ -6133,24 +6133,24 @@
     "attacks": {
       "fast": [
         {
-          "name": "Confusion",
+          "name": "ねんりき",
           "type": "エスパー",
           "damage": 15
         }
       ],
       "special": [
         {
-          "name": "Ancient Power",
+          "name": "げんしのちから",
           "type": "いわ",
           "damage": 35
         },
         {
-          "name": "エスパー",
+          "name": "サイコキネシス",
           "type": "エスパー",
           "damage": 55
         },
         {
-          "name": "Seed Bomb",
+          "name": "タネばくだん",
           "type": "くさ",
           "damage": 40
         }
@@ -6192,29 +6192,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Confusion",
+          "name": "ねんりき",
           "type": "エスパー",
           "damage": 15
         },
         {
-          "name": "Zen Headbutt",
+          "name": "しねんのずつき",
           "type": "エスパー",
           "damage": 12
         }
       ],
       "special": [
         {
-          "name": "エスパー",
+          "name": "サイコキネシス",
           "type": "エスパー",
           "damage": 55
         },
         {
-          "name": "Seed Bomb",
+          "name": "タネばくだん",
           "type": "くさ",
           "damage": 40
         },
         {
-          "name": "Solar Beam",
+          "name": "ソーラービーム",
           "type": "くさ",
           "damage": 120
         }
@@ -6252,29 +6252,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Mud Slap",
+          "name": "どろかけ",
           "type": "じめん",
           "damage": 15
         },
         {
-          "name": "Rock Smash",
+          "name": "いわくだき",
           "type": "かくとう",
           "damage": 15
         }
       ],
       "special": [
         {
-          "name": "Bulldoze",
+          "name": "じならし",
           "type": "じめん",
           "damage": 35
         },
         {
-          "name": "Dig",
+          "name": "あなをほる",
           "type": "じめん",
           "damage": 70
         },
         {
-          "name": "Earthquake",
+          "name": "じしん",
           "type": "じめん",
           "damage": 100
         }
@@ -6308,29 +6308,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Mud Slap",
+          "name": "どろかけ",
           "type": "じめん",
           "damage": 15
         },
         {
-          "name": "Rock Smash",
+          "name": "いわくだき",
           "type": "かくとう",
           "damage": 15
         }
       ],
       "special": [
         {
-          "name": "Bone Club",
+          "name": "ホネこんぼう",
           "type": "じめん",
           "damage": 25
         },
         {
-          "name": "Dig",
+          "name": "あなをほる",
           "type": "じめん",
           "damage": 70
         },
         {
-          "name": "Earthquake",
+          "name": "じしん",
           "type": "じめん",
           "damage": 100
         }
@@ -6358,29 +6358,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Low Kick",
+          "name": "けたぐり",
           "type": "かくとう",
           "damage": 5
         },
         {
-          "name": "Rock Smash",
+          "name": "いわくだき",
           "type": "かくとう",
           "damage": 15
         }
       ],
       "special": [
         {
-          "name": "Low Sweep",
+          "name": "ローキック",
           "type": "かくとう",
           "damage": 30
         },
         {
-          "name": "Stomp",
+          "name": "ふみつけ",
           "type": "ノーマル",
           "damage": 30
         },
         {
-          "name": "Stone Edge",
+          "name": "ストーンエッジ",
           "type": "いわ",
           "damage": 80
         }
@@ -6408,34 +6408,34 @@
     "attacks": {
       "fast": [
         {
-          "name": "Bullet Punch",
+          "name": "バレットパンチ",
           "type": "はがね",
           "damage": 10
         },
         {
-          "name": "Rock Smash",
+          "name": "いわくだき",
           "type": "かくとう",
           "damage": 15
         }
       ],
       "special": [
         {
-          "name": "Brick Break",
+          "name": "かわらわり",
           "type": "かくとう",
           "damage": 30
         },
         {
-          "name": "Fire Punch",
+          "name": "ほのおのパンチ",
           "type": "ほのお",
           "damage": 40
         },
         {
-          "name": "Ice Punch",
+          "name": "れいとうパンチ",
           "type": "こおり",
           "damage": 45
         },
         {
-          "name": "Thunder Punch",
+          "name": "かみなりパンチ",
           "type": "でんき",
           "damage": 40
         }
@@ -6463,29 +6463,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Lick",
+          "name": "したでなめる",
           "type": "ゴースト",
           "damage": 5
         },
         {
-          "name": "Zen Headbutt",
+          "name": "しねんのずつき",
           "type": "エスパー",
           "damage": 12
         }
       ],
       "special": [
         {
-          "name": "Hyper Beam",
+          "name": "はかいこうせん",
           "type": "ノーマル",
           "damage": 120
         },
         {
-          "name": "Power Whip",
+          "name": "パワーウィップ",
           "type": "くさ",
           "damage": 70
         },
         {
-          "name": "Stomp",
+          "name": "ふみつけ",
           "type": "ノーマル",
           "damage": 30
         }
@@ -6523,29 +6523,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Acid",
+          "name": "ようかいえき",
           "type": "どく",
           "damage": 10
         },
         {
-          "name": "Tackle",
+          "name": "たいあたり",
           "type": "ノーマル",
           "damage": 12
         }
       ],
       "special": [
         {
-          "name": "Dark Pulse",
+          "name": "あくのはどう",
           "type": "あく",
           "damage": 45
         },
         {
-          "name": "Sludge",
+          "name": "ヘドロこうげき",
           "type": "どく",
           "damage": 30
         },
         {
-          "name": "Sludge Bomb",
+          "name": "ヘドロばくだん",
           "type": "どく",
           "damage": 55
         }
@@ -6579,29 +6579,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Acid",
+          "name": "ようかいえき",
           "type": "どく",
           "damage": 10
         },
         {
-          "name": "Tackle",
+          "name": "たいあたり",
           "type": "ノーマル",
           "damage": 12
         }
       ],
       "special": [
         {
-          "name": "Dark Pulse",
+          "name": "あくのはどう",
           "type": "あく",
           "damage": 45
         },
         {
-          "name": "Shadow Ball",
+          "name": "シャドーボール",
           "type": "ゴースト",
           "damage": 45
         },
         {
-          "name": "Sludge Bomb",
+          "name": "ヘドロばくだん",
           "type": "どく",
           "damage": 55
         }
@@ -6639,29 +6639,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Mud Slap",
+          "name": "どろかけ",
           "type": "じめん",
           "damage": 15
         },
         {
-          "name": "Rock Smash",
+          "name": "いわくだき",
           "type": "かくとう",
           "damage": 15
         }
       ],
       "special": [
         {
-          "name": "Bulldoze",
+          "name": "じならし",
           "type": "じめん",
           "damage": 35
         },
         {
-          "name": "Horn Attack",
+          "name": "つのでつく",
           "type": "ノーマル",
           "damage": 25
         },
         {
-          "name": "Stomp",
+          "name": "ふみつけ",
           "type": "ノーマル",
           "damage": 30
         }
@@ -6695,29 +6695,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Mud Slap",
+          "name": "どろかけ",
           "type": "じめん",
           "damage": 15
         },
         {
-          "name": "Rock Smash",
+          "name": "いわくだき",
           "type": "かくとう",
           "damage": 15
         }
       ],
       "special": [
         {
-          "name": "Earthquake",
+          "name": "じしん",
           "type": "じめん",
           "damage": 100
         },
         {
-          "name": "Megahorn",
+          "name": "メガホーン",
           "type": "むし",
           "damage": 80
         },
         {
-          "name": "Stone Edge",
+          "name": "ストーンエッジ",
           "type": "いわ",
           "damage": 80
         }
@@ -6745,29 +6745,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Pound",
+          "name": "はたく",
           "type": "ノーマル",
           "damage": 7
         },
         {
-          "name": "Zen Headbutt",
+          "name": "しねんのずつき",
           "type": "エスパー",
           "damage": 12
         }
       ],
       "special": [
         {
-          "name": "Dazzling Gleam",
+          "name": "マジカルシャイン",
           "type": "フェアリー",
           "damage": 55
         },
         {
-          "name": "Psybeam",
+          "name": "サイケこうせん",
           "type": "エスパー",
           "damage": 40
         },
         {
-          "name": "エスパー",
+          "name": "サイコキネシス",
           "type": "エスパー",
           "damage": 55
         }
@@ -6795,24 +6795,24 @@
     "attacks": {
       "fast": [
         {
-          "name": "Vine Whip",
+          "name": "つるのムチ",
           "type": "くさ",
           "damage": 7
         }
       ],
       "special": [
         {
-          "name": "Power Whip",
+          "name": "パワーウィップ",
           "type": "くさ",
           "damage": 70
         },
         {
-          "name": "Sludge Bomb",
+          "name": "ヘドロばくだん",
           "type": "どく",
           "damage": 55
         },
         {
-          "name": "Solar Beam",
+          "name": "ソーラービーム",
           "type": "くさ",
           "damage": 120
         }
@@ -6842,29 +6842,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Low Kick",
+          "name": "けたぐり",
           "type": "かくとう",
           "damage": 5
         },
         {
-          "name": "Mud Slap",
+          "name": "どろかけ",
           "type": "じめん",
           "damage": 15
         }
       ],
       "special": [
         {
-          "name": "Brick Break",
+          "name": "かわらわり",
           "type": "かくとう",
           "damage": 30
         },
         {
-          "name": "Earthquake",
+          "name": "じしん",
           "type": "じめん",
           "damage": 100
         },
         {
-          "name": "Stomp",
+          "name": "ふみつけ",
           "type": "ノーマル",
           "damage": 30
         }
@@ -6902,29 +6902,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Bubble",
+          "name": "あわ",
           "type": "みず",
           "damage": 25
         },
         {
-          "name": "Water Gun",
+          "name": "みずでっぽう",
           "type": "みず",
           "damage": 6
         }
       ],
       "special": [
         {
-          "name": "Bubble Beam",
+          "name": "バブルこうせん",
           "type": "みず",
           "damage": 30
         },
         {
-          "name": "Dragon Pulse",
+          "name": "りゅうのはどう",
           "type": "ドラゴン",
           "damage": 65
         },
         {
-          "name": "Flash Cannon",
+          "name": "ラスターカノン",
           "type": "はがね",
           "damage": 60
         }
@@ -6958,29 +6958,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Dragon Breath",
+          "name": "りゅうのいぶき",
           "type": "ドラゴン",
           "damage": 6
         },
         {
-          "name": "Water Gun",
+          "name": "みずでっぽう",
           "type": "みず",
           "damage": 6
         }
       ],
       "special": [
         {
-          "name": "Blizzard",
+          "name": "ふぶき",
           "type": "こおり",
           "damage": 100
         },
         {
-          "name": "Dragon Pulse",
+          "name": "りゅうのはどう",
           "type": "ドラゴン",
           "damage": 65
         },
         {
-          "name": "Hydro Pump",
+          "name": "ハイドロポンプ",
           "type": "みず",
           "damage": 90
         }
@@ -7018,29 +7018,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Mud Shot",
+          "name": "マッドショット",
           "type": "じめん",
           "damage": 6
         },
         {
-          "name": "Peck",
+          "name": "つつく",
           "type": "ひこう",
           "damage": 10
         }
       ],
       "special": [
         {
-          "name": "Aqua Tail",
+          "name": "アクアテール",
           "type": "みず",
           "damage": 45
         },
         {
-          "name": "Horn Attack",
+          "name": "つのでつく",
           "type": "ノーマル",
           "damage": 25
         },
         {
-          "name": "Water Pulse",
+          "name": "みずのはどう",
           "type": "みず",
           "damage": 35
         }
@@ -7074,29 +7074,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Peck",
+          "name": "つつく",
           "type": "ひこう",
           "damage": 10
         },
         {
-          "name": "Poison Jab",
+          "name": "どくづき",
           "type": "どく",
           "damage": 12
         }
       ],
       "special": [
         {
-          "name": "Drill Run",
+          "name": "ドリルライナー",
           "type": "じめん",
           "damage": 50
         },
         {
-          "name": "Icy Wind",
+          "name": "こごえるかぜ",
           "type": "こおり",
           "damage": 25
         },
         {
-          "name": "Megahorn",
+          "name": "メガホーン",
           "type": "むし",
           "damage": 80
         }
@@ -7134,29 +7134,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Quick Attack",
+          "name": "でんこうせっか",
           "type": "ノーマル",
           "damage": 10
         },
         {
-          "name": "Water Gun",
+          "name": "みずでっぽう",
           "type": "みず",
           "damage": 6
         }
       ],
       "special": [
         {
-          "name": "Bubble Beam",
+          "name": "バブルこうせん",
           "type": "みず",
           "damage": 30
         },
         {
-          "name": "Power Gem",
+          "name": "パワージェム",
           "type": "いわ",
           "damage": 40
         },
         {
-          "name": "Swift",
+          "name": "スピードスター",
           "type": "ノーマル",
           "damage": 30
         }
@@ -7190,29 +7190,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Quick Attack",
+          "name": "でんこうせっか",
           "type": "ノーマル",
           "damage": 10
         },
         {
-          "name": "Water Gun",
+          "name": "みずでっぽう",
           "type": "みず",
           "damage": 6
         }
       ],
       "special": [
         {
-          "name": "Hydro Pump",
+          "name": "ハイドロポンプ",
           "type": "みず",
           "damage": 90
         },
         {
-          "name": "Power Gem",
+          "name": "パワージェム",
           "type": "いわ",
           "damage": 40
         },
         {
-          "name": "Psybeam",
+          "name": "サイケこうせん",
           "type": "エスパー",
           "damage": 40
         }
@@ -7242,29 +7242,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Confusion",
+          "name": "ねんりき",
           "type": "エスパー",
           "damage": 15
         },
         {
-          "name": "Zen Headbutt",
+          "name": "しねんのずつき",
           "type": "エスパー",
           "damage": 12
         }
       ],
       "special": [
         {
-          "name": "Psybeam",
+          "name": "サイケこうせん",
           "type": "エスパー",
           "damage": 40
         },
         {
-          "name": "エスパー",
+          "name": "サイコキネシス",
           "type": "エスパー",
           "damage": 55
         },
         {
-          "name": "Shadow Ball",
+          "name": "シャドーボール",
           "type": "ゴースト",
           "damage": 45
         }
@@ -7292,29 +7292,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Fury Cutter",
+          "name": "れんぞくぎり",
           "type": "むし",
           "damage": 3
         },
         {
-          "name": "Steel Wing",
+          "name": "はがねのつばさ",
           "type": "はがね",
           "damage": 15
         }
       ],
       "special": [
         {
-          "name": "Bug Buzz",
+          "name": "むしのさざめき",
           "type": "むし",
           "damage": 75
         },
         {
-          "name": "Night Slash",
+          "name": "つじぎり",
           "type": "あく",
           "damage": 30
         },
         {
-          "name": "X Scissor",
+          "name": "シザークロス",
           "type": "むし",
           "damage": 35
         }
@@ -7342,29 +7342,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Frost Breath",
+          "name": "こおりのいぶき",
           "type": "こおり",
           "damage": 9
         },
         {
-          "name": "Pound",
+          "name": "はたく",
           "type": "ノーマル",
           "damage": 7
         }
       ],
       "special": [
         {
-          "name": "Draining Kiss",
+          "name": "ドレインキッス",
           "type": "フェアリー",
           "damage": 25
         },
         {
-          "name": "Ice Punch",
+          "name": "れいとうパンチ",
           "type": "こおり",
           "damage": 45
         },
         {
-          "name": "Psyshock",
+          "name": "サイコショック",
           "type": "エスパー",
           "damage": 40
         }
@@ -7392,29 +7392,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Low Kick",
+          "name": "けたぐり",
           "type": "かくとう",
           "damage": 5
         },
         {
-          "name": "Thunder Shock",
+          "name": "でんきショック",
           "type": "でんき",
           "damage": 5
         }
       ],
       "special": [
         {
-          "name": "Thunder",
+          "name": "かみなり",
           "type": "でんき",
           "damage": 100
         },
         {
-          "name": "Thunder Punch",
+          "name": "かみなりパンチ",
           "type": "でんき",
           "damage": 40
         },
         {
-          "name": "Thunderbolt",
+          "name": "10まんボルト",
           "type": "でんき",
           "damage": 55
         }
@@ -7442,29 +7442,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Ember",
+          "name": "ひのこ",
           "type": "ほのお",
           "damage": 10
         },
         {
-          "name": "Karate Chop",
+          "name": "からてチョップ",
           "type": "かくとう",
           "damage": 6
         }
       ],
       "special": [
         {
-          "name": "Fire Blast",
+          "name": "だいもんじ",
           "type": "ほのお",
           "damage": 100
         },
         {
-          "name": "Fire Punch",
+          "name": "ほのおのパンチ",
           "type": "ほのお",
           "damage": 40
         },
         {
-          "name": "Flamethrower",
+          "name": "かえんほうしゃ",
           "type": "ほのお",
           "damage": 55
         }
@@ -7492,29 +7492,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Fury Cutter",
+          "name": "れんぞくぎり",
           "type": "むし",
           "damage": 3
         },
         {
-          "name": "Rock Smash",
+          "name": "いわくだき",
           "type": "かくとう",
           "damage": 15
         }
       ],
       "special": [
         {
-          "name": "Submission",
+          "name": "じごくぐるま",
           "type": "かくとう",
           "damage": 30
         },
         {
-          "name": "Vice Grip",
+          "name": "はさむ",
           "type": "ノーマル",
           "damage": 25
         },
         {
-          "name": "X Scissor",
+          "name": "シザークロス",
           "type": "むし",
           "damage": 35
         }
@@ -7544,29 +7544,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Tackle",
+          "name": "たいあたり",
           "type": "ノーマル",
           "damage": 12
         },
         {
-          "name": "Zen Headbutt",
+          "name": "しねんのずつき",
           "type": "エスパー",
           "damage": 12
         }
       ],
       "special": [
         {
-          "name": "Earthquake",
+          "name": "じしん",
           "type": "じめん",
           "damage": 100
         },
         {
-          "name": "Horn Attack",
+          "name": "つのでつく",
           "type": "ノーマル",
           "damage": 25
         },
         {
-          "name": "Iron Head",
+          "name": "アイアンヘッド",
           "type": "はがね",
           "damage": 30
         }
@@ -7604,14 +7604,14 @@
     "attacks": {
       "fast": [
         {
-          "name": "Splash",
+          "name": "はねる",
           "type": "みず",
           "damage": 0
         }
       ],
       "special": [
         {
-          "name": "Struggle",
+          "name": "わるあがき",
           "type": "ノーマル",
           "damage": 15
         }
@@ -7645,29 +7645,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Bite",
+          "name": "かみつく",
           "type": "あく",
           "damage": 6
         },
         {
-          "name": "Dragon Breath",
+          "name": "りゅうのいぶき",
           "type": "ドラゴン",
           "damage": 6
         }
       ],
       "special": [
         {
-          "name": "Dragon Pulse",
+          "name": "りゅうのはどう",
           "type": "ドラゴン",
           "damage": 65
         },
         {
-          "name": "Hydro Pump",
+          "name": "ハイドロポンプ",
           "type": "みず",
           "damage": 90
         },
         {
-          "name": "Twister",
+          "name": "たつまき",
           "type": "ドラゴン",
           "damage": 25
         }
@@ -7695,29 +7695,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Frost Breath",
+          "name": "こおりのいぶき",
           "type": "こおり",
           "damage": 9
         },
         {
-          "name": "Ice Shard",
+          "name": "こおりのつぶて",
           "type": "こおり",
           "damage": 15
         }
       ],
       "special": [
         {
-          "name": "Blizzard",
+          "name": "ふぶき",
           "type": "こおり",
           "damage": 100
         },
         {
-          "name": "Dragon Pulse",
+          "name": "りゅうのはどう",
           "type": "ドラゴン",
           "damage": 65
         },
         {
-          "name": "Ice Beam",
+          "name": "れいとうビーム",
           "type": "こおり",
           "damage": 65
         }
@@ -7745,14 +7745,14 @@
     "attacks": {
       "fast": [
         {
-          "name": "Pound",
+          "name": "はたく",
           "type": "ノーマル",
           "damage": 7
         }
       ],
       "special": [
         {
-          "name": "Struggle",
+          "name": "わるあがき",
           "type": "ノーマル",
           "damage": 15
         }
@@ -7798,29 +7798,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Quick Attack",
+          "name": "でんこうせっか",
           "type": "ノーマル",
           "damage": 10
         },
         {
-          "name": "Tackle",
+          "name": "たいあたり",
           "type": "ノーマル",
           "damage": 12
         }
       ],
       "special": [
         {
-          "name": "Body Slam",
+          "name": "のしかかり",
           "type": "ノーマル",
           "damage": 40
         },
         {
-          "name": "Dig",
+          "name": "あなをほる",
           "type": "じめん",
           "damage": 70
         },
         {
-          "name": "Swift",
+          "name": "スピードスター",
           "type": "ノーマル",
           "damage": 30
         }
@@ -7854,24 +7854,24 @@
     "attacks": {
       "fast": [
         {
-          "name": "Water Gun",
+          "name": "みずでっぽう",
           "type": "みず",
           "damage": 6
         }
       ],
       "special": [
         {
-          "name": "Aqua Tail",
+          "name": "アクアテール",
           "type": "みず",
           "damage": 45
         },
         {
-          "name": "Hydro Pump",
+          "name": "ハイドロポンプ",
           "type": "みず",
           "damage": 90
         },
         {
-          "name": "Water Pulse",
+          "name": "みずのはどう",
           "type": "みず",
           "damage": 35
         }
@@ -7905,24 +7905,24 @@
     "attacks": {
       "fast": [
         {
-          "name": "Thunder Shock",
+          "name": "でんきショック",
           "type": "でんき",
           "damage": 5
         }
       ],
       "special": [
         {
-          "name": "Discharge",
+          "name": "ほうでん",
           "type": "でんき",
           "damage": 35
         },
         {
-          "name": "Thunder",
+          "name": "かみなり",
           "type": "でんき",
           "damage": 100
         },
         {
-          "name": "Thunderbolt",
+          "name": "10まんボルト",
           "type": "でんき",
           "damage": 55
         }
@@ -7956,24 +7956,24 @@
     "attacks": {
       "fast": [
         {
-          "name": "Ember",
+          "name": "ひのこ",
           "type": "ほのお",
           "damage": 10
         }
       ],
       "special": [
         {
-          "name": "Fire Blast",
+          "name": "だいもんじ",
           "type": "ほのお",
           "damage": 100
         },
         {
-          "name": "Flamethrower",
+          "name": "かえんほうしゃ",
           "type": "ほのお",
           "damage": 55
         },
         {
-          "name": "Heat Wave",
+          "name": "ねっぷう",
           "type": "ほのお",
           "damage": 80
         }
@@ -8001,29 +8001,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Quick Attack",
+          "name": "でんこうせっか",
           "type": "ノーマル",
           "damage": 10
         },
         {
-          "name": "Tackle",
+          "name": "たいあたり",
           "type": "ノーマル",
           "damage": 12
         }
       ],
       "special": [
         {
-          "name": "Discharge",
+          "name": "ほうでん",
           "type": "でんき",
           "damage": 35
         },
         {
-          "name": "Psybeam",
+          "name": "サイケこうせん",
           "type": "エスパー",
           "damage": 40
         },
         {
-          "name": "Signal Beam",
+          "name": "シグナルビーム",
           "type": "むし",
           "damage": 45
         }
@@ -8061,29 +8061,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Mud Shot",
+          "name": "マッドショット",
           "type": "じめん",
           "damage": 6
         },
         {
-          "name": "Water Gun",
+          "name": "みずでっぽう",
           "type": "みず",
           "damage": 6
         }
       ],
       "special": [
         {
-          "name": "Ancient Power",
+          "name": "げんしのちから",
           "type": "いわ",
           "damage": 35
         },
         {
-          "name": "Brine",
+          "name": "しおみず",
           "type": "みず",
           "damage": 25
         },
         {
-          "name": "Rock Tomb",
+          "name": "がんせきふうじ",
           "type": "いわ",
           "damage": 30
         }
@@ -8117,29 +8117,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Rock Throw",
+          "name": "いわおとし",
           "type": "いわ",
           "damage": 12
         },
         {
-          "name": "Water Gun",
+          "name": "みずでっぽう",
           "type": "みず",
           "damage": 6
         }
       ],
       "special": [
         {
-          "name": "Ancient Power",
+          "name": "げんしのちから",
           "type": "いわ",
           "damage": 35
         },
         {
-          "name": "Hydro Pump",
+          "name": "ハイドロポンプ",
           "type": "みず",
           "damage": 90
         },
         {
-          "name": "Rock Slide",
+          "name": "いわなだれ",
           "type": "いわ",
           "damage": 50
         }
@@ -8177,29 +8177,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Mud Shot",
+          "name": "マッドショット",
           "type": "じめん",
           "damage": 6
         },
         {
-          "name": "Scratch",
+          "name": "ひっかく",
           "type": "ノーマル",
           "damage": 6
         }
       ],
       "special": [
         {
-          "name": "Ancient Power",
+          "name": "げんしのちから",
           "type": "いわ",
           "damage": 35
         },
         {
-          "name": "Aqua Jet",
+          "name": "アクアジェット",
           "type": "みず",
           "damage": 25
         },
         {
-          "name": "Rock Tomb",
+          "name": "がんせきふうじ",
           "type": "いわ",
           "damage": 30
         }
@@ -8233,29 +8233,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Fury Cutter",
+          "name": "れんぞくぎり",
           "type": "むし",
           "damage": 3
         },
         {
-          "name": "Mud Shot",
+          "name": "マッドショット",
           "type": "じめん",
           "damage": 6
         }
       ],
       "special": [
         {
-          "name": "Ancient Power",
+          "name": "げんしのちから",
           "type": "いわ",
           "damage": 35
         },
         {
-          "name": "Stone Edge",
+          "name": "ストーンエッジ",
           "type": "いわ",
           "damage": 80
         },
         {
-          "name": "Water Pulse",
+          "name": "みずのはどう",
           "type": "みず",
           "damage": 35
         }
@@ -8283,29 +8283,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Bite",
+          "name": "かみつく",
           "type": "あく",
           "damage": 6
         },
         {
-          "name": "Steel Wing",
+          "name": "はがねのつばさ",
           "type": "はがね",
           "damage": 15
         }
       ],
       "special": [
         {
-          "name": "Ancient Power",
+          "name": "げんしのちから",
           "type": "いわ",
           "damage": 35
         },
         {
-          "name": "Hyper Beam",
+          "name": "はかいこうせん",
           "type": "ノーマル",
           "damage": 120
         },
         {
-          "name": "Iron Head",
+          "name": "アイアンヘッド",
           "type": "はがね",
           "damage": 30
         }
@@ -8333,29 +8333,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Lick",
+          "name": "したでなめる",
           "type": "ゴースト",
           "damage": 5
         },
         {
-          "name": "Zen Headbutt",
+          "name": "しねんのずつき",
           "type": "エスパー",
           "damage": 12
         }
       ],
       "special": [
         {
-          "name": "Body Slam",
+          "name": "のしかかり",
           "type": "ノーマル",
           "damage": 40
         },
         {
-          "name": "Earthquake",
+          "name": "じしん",
           "type": "じめん",
           "damage": 100
         },
         {
-          "name": "Hyper Beam",
+          "name": "はかいこうせん",
           "type": "ノーマル",
           "damage": 120
         }
@@ -8385,24 +8385,24 @@
     "attacks": {
       "fast": [
         {
-          "name": "Frost Breath",
+          "name": "こおりのいぶき",
           "type": "こおり",
           "damage": 9
         }
       ],
       "special": [
         {
-          "name": "Blizzard",
+          "name": "ふぶき",
           "type": "こおり",
           "damage": 100
         },
         {
-          "name": "Ice Beam",
+          "name": "れいとうビーム",
           "type": "こおり",
           "damage": 65
         },
         {
-          "name": "Icy Wind",
+          "name": "こごえるかぜ",
           "type": "こおり",
           "damage": 25
         }
@@ -8432,24 +8432,24 @@
     "attacks": {
       "fast": [
         {
-          "name": "Thunder Shock",
+          "name": "でんきショック",
           "type": "でんき",
           "damage": 5
         }
       ],
       "special": [
         {
-          "name": "Discharge",
+          "name": "ほうでん",
           "type": "でんき",
           "damage": 35
         },
         {
-          "name": "Thunder",
+          "name": "かみなり",
           "type": "でんき",
           "damage": 100
         },
         {
-          "name": "Thunderbolt",
+          "name": "10まんボルト",
           "type": "でんき",
           "damage": 55
         }
@@ -8479,24 +8479,24 @@
     "attacks": {
       "fast": [
         {
-          "name": "Ember",
+          "name": "ひのこ",
           "type": "ほのお",
           "damage": 10
         }
       ],
       "special": [
         {
-          "name": "Fire Blast",
+          "name": "だいもんじ",
           "type": "ほのお",
           "damage": 100
         },
         {
-          "name": "Flamethrower",
+          "name": "かえんほうしゃ",
           "type": "ほのお",
           "damage": 55
         },
         {
-          "name": "Heat Wave",
+          "name": "ねっぷう",
           "type": "ほのお",
           "damage": 80
         }
@@ -8538,24 +8538,24 @@
     "attacks": {
       "fast": [
         {
-          "name": "Dragon Breath",
+          "name": "りゅうのいぶき",
           "type": "ドラゴン",
           "damage": 6
         }
       ],
       "special": [
         {
-          "name": "Aqua Tail",
+          "name": "アクアテール",
           "type": "みず",
           "damage": 45
         },
         {
-          "name": "Twister",
+          "name": "たつまき",
           "type": "ドラゴン",
           "damage": 25
         },
         {
-          "name": "Wrap",
+          "name": "まきつく",
           "type": "ノーマル",
           "damage": 25
         }
@@ -8599,24 +8599,24 @@
     "attacks": {
       "fast": [
         {
-          "name": "Dragon Breath",
+          "name": "りゅうのいぶき",
           "type": "ドラゴン",
           "damage": 6
         }
       ],
       "special": [
         {
-          "name": "Aqua Tail",
+          "name": "アクアテール",
           "type": "みず",
           "damage": 45
         },
         {
-          "name": "Dragon Pulse",
+          "name": "りゅうのはどう",
           "type": "ドラゴン",
           "damage": 65
         },
         {
-          "name": "Wrap",
+          "name": "まきつく",
           "type": "ノーマル",
           "damage": 25
         }
@@ -8654,29 +8654,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Dragon Breath",
+          "name": "りゅうのいぶき",
           "type": "ドラゴン",
           "damage": 6
         },
         {
-          "name": "Steel Wing",
+          "name": "はがねのつばさ",
           "type": "はがね",
           "damage": 15
         }
       ],
       "special": [
         {
-          "name": "Dragon Claw",
+          "name": "ドラゴンクロー",
           "type": "ドラゴン",
           "damage": 35
         },
         {
-          "name": "Dragon Pulse",
+          "name": "りゅうのはどう",
           "type": "ドラゴン",
           "damage": 65
         },
         {
-          "name": "Hyper Beam",
+          "name": "はかいこうせん",
           "type": "ノーマル",
           "damage": 120
         }
@@ -8706,29 +8706,29 @@
     "attacks": {
       "fast": [
         {
-          "name": "Confusion",
+          "name": "ねんりき",
           "type": "エスパー",
           "damage": 15
         },
         {
-          "name": "Psycho Cut",
+          "name": "サイコカッター",
           "type": "エスパー",
           "damage": 7
         }
       ],
       "special": [
         {
-          "name": "Hyper Beam",
+          "name": "はかいこうせん",
           "type": "ノーマル",
           "damage": 120
         },
         {
-          "name": "エスパー",
+          "name": "サイコキネシス",
           "type": "エスパー",
           "damage": 55
         },
         {
-          "name": "Shadow Ball",
+          "name": "シャドーボール",
           "type": "ゴースト",
           "damage": 45
         }
@@ -8758,54 +8758,54 @@
     "attacks": {
       "fast": [
         {
-          "name": "Pound",
+          "name": "はたく",
           "type": "ノーマル",
           "damage": 7
         }
       ],
       "special": [
         {
-          "name": "Dragon Pulse",
+          "name": "りゅうのはどう",
           "type": "ドラゴン",
           "damage": 65
         },
         {
-          "name": "Earthquake",
+          "name": "じしん",
           "type": "じめん",
           "damage": 100
         },
         {
-          "name": "Fire Blast",
+          "name": "だいもんじ",
           "type": "ほのお",
           "damage": 100
         },
         {
-          "name": "Hurricane",
+          "name": "ぼうふう",
           "type": "ひこう",
           "damage": 80
         },
         {
-          "name": "Hyper Beam",
+          "name": "はかいこうせん",
           "type": "ノーマル",
           "damage": 120
         },
         {
-          "name": "Moonblast",
+          "name": "ムーンフォース",
           "type": "フェアリー",
           "damage": 85
         },
         {
-          "name": "エスパー",
+          "name": "サイコキネシス",
           "type": "エスパー",
           "damage": 55
         },
         {
-          "name": "Solar Beam",
+          "name": "ソーラービーム",
           "type": "くさ",
           "damage": 120
         },
         {
-          "name": "Thunder",
+          "name": "かみなり",
           "type": "でんき",
           "damage": 100
         }
