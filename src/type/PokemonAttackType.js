@@ -7,21 +7,21 @@ import {
 
 const AttackType = new GraphQLObjectType({
   name: 'Attack',
-  description: 'Represents a Pokémon\'s attack types',
+  description: 'ポケモンの攻撃の情報を表します',
   fields: {
     name: {
       type: GraphQLString,
-      description: 'The name of this Pokémon attack',
+      description: '攻撃の名前',
       resolve: obj => obj.name,
     },
     type: {
       type: GraphQLString,
-      description: 'The type of this Pokémon attack',
+      description: '攻撃の属性',
       resolve: obj => obj.type,
     },
     damage: {
       type: GraphQLInt,
-      description: 'The damage of this Pokémon attack',
+      description: '攻撃のダメージ',
       resolve: obj => obj.damage,
     },
   },
@@ -29,16 +29,16 @@ const AttackType = new GraphQLObjectType({
 
 export default new GraphQLObjectType({
   name: 'PokemonAttack',
-  description: 'Represents a Pokémon\'s attack types',
+  description: 'ポケモンの攻撃の情報を表します',
   fields: () => ({
     fast: {
       type: new GraphQLList(AttackType),
-      description: 'The fast attacks of this Pokémon',
+      description: '最初から覚えてる攻撃',
       resolve: obj => obj.fast,
     },
     special: {
       type: new GraphQLList(AttackType),
-      description: 'The special attacks of this Pokémon',
+      description: 'わざマシンで覚える攻撃',
       resolve: obj => obj.special,
     },
   }),

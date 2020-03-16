@@ -18,7 +18,7 @@ import {
 
 const QueryType = new GraphQLObjectType({
   name: 'Query',
-  description: 'Query any Pokémon by number or name',
+  description: 'ID, 番号または名前でポケモンを検索する',
   fields: () => ({
     query: {
       type: QueryType,

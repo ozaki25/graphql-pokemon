@@ -1,20 +1,17 @@
-import {
-  GraphQLObjectType,
-  GraphQLString,
-} from 'graphql';
+import { GraphQLObjectType, GraphQLString } from 'graphql';
 
 export default new GraphQLObjectType({
   name: 'PokemonDimension',
-  description: 'Represents a Pokémon\'s dimensions',
+  description: 'ポケモンの寸法を表します',
   fields: {
     minimum: {
       type: GraphQLString,
-      description: 'The minimum value of this dimension',
+      description: '寸法の最小値',
       resolve: obj => obj.minimum,
     },
     maximum: {
       type: GraphQLString,
-      description: 'The maximum value of this dimension',
+      description: '寸法の最大値',
       resolve: obj => obj.maximum,
     },
   },

@@ -5,9 +5,7 @@ import {
   GraphQLFloat,
   GraphQLList,
 } from 'graphql';
-import {
-  globalIdField,
-} from 'graphql-relay';
+import { globalIdField } from 'graphql-relay';
 
 import PokemonDimensionType from './PokemonDimensionType';
 import PokemonAttackType from './PokemonAttackType';
@@ -17,82 +15,87 @@ import { getPokemonByEvolutions } from '../service/Pokemon';
 
 const PokemonType = new GraphQLObjectType({
   name: 'Pokemon',
-  description: 'Represents a Pokémon',
+  description: 'ポケモンの情報を表す',
   fields: () => ({
     id: globalIdField('Pokemon'),
     number: {
       type: GraphQLString,
-      description: 'The identifier of this Pokémon',
+      description: 'ポケモンの番号',
       resolve: obj => `00${obj.id}`.slice(-3),
     },
     name: {
       type: GraphQLString,
-      description: 'The name of this Pokémon',
+      description: 'ポケモンの名前',
       resolve: obj => obj.name,
     },
     weight: {
       type: PokemonDimensionType,
-      description: 'The minimum and maximum weight of this Pokémon',
+      description: 'ポケモンの最小重量と最大重量',
       resolve: obj => obj.weight,
     },
     height: {
       type: PokemonDimensionType,
-      description: 'The minimum and maximum weight of this Pokémon',
+      description: 'ポケモンの最小サイズと最大サイズ',
       resolve: obj => obj.height,
     },
     classification: {
       type: GraphQLString,
-      description: 'The classification of this Pokémon',
+      description: 'ポケモンの種別',
       resolve: obj => obj.classification,
     },
     types: {
       type: new GraphQLList(GraphQLString),
-      description: 'The type(s) of this Pokémon',
+      description: 'ポケモンの属性',
       resolve: obj => obj.types,
     },
     resistant: {
       type: new GraphQLList(GraphQLString),
-      description: 'The type(s) of Pokémons that this Pokémon is resistant to',
+      description: 'ポケモンの耐属性',
       resolve: obj => obj.resistant,
     },
     attacks: {
       type: PokemonAttackType,
-      description: 'The attacks of this Pokémon',
+      description: 'ポケモンの攻撃',
       resolve: obj => obj.attacks,
     },
     weaknesses: {
       type: new GraphQLList(GraphQLString),
-      description: 'The type(s) of Pokémons that this Pokémon weak to',
+      description: 'ポケモンの弱点属性',
       resolve: obj => obj.weaknesses,
     },
     fleeRate: {
       type: GraphQLFloat,
+      description: 'ポケモンのフリーレート',
       resolve: obj => obj.fleeRate,
     },
     maxCP: {
       type: GraphQLInt,
-      description: 'The maximum CP of this Pokémon',
+      description: 'ポケモンの最大CP',
       resolve: obj => obj.maxCP,
     },
     evolutions: {
       type: new GraphQLList(PokemonType),
-      description: 'The evolutions of this Pokémon',
-      resolve: async obj => await getPokemonByEvolutions(obj.evolutions),
+      description: 'ポケモンの進化先',
+      resolve: async obj => getPokemonByEvolutions(obj.evolutions),
     },
     evolutionRequirements: {
       type: EvolutionRequirementType,
-      description: 'The evolution requirements of this Pokémon',
+      description: 'ポケモンの進化に必要な要件',
       resolve: obj => obj.evolutionRequirements,
     },
     maxHP: {
       type: GraphQLInt,
-      description: 'The maximum HP of this Pokémon',
+      description: 'ポケモンの最大HP',
       resolve: obj => obj.maxHP,
     },
     image: {
       type: GraphQLString,
+      description: 'ポケモンの画像URL',
       resolve: obj =>
-        `https://img.pokemondb.net/artwork/${obj.enName.toLowerCase().replace(/[&\/\\#,+()$~%.'":*?<>{}]/g, '').replace(' ', '-')}.jpg`,
+        `https://zimg.pokemondb.net/artwork/${obj.enName
+          .toLowerCase()
+          .replace(/[&\/\\#,+()$~%.'":*?<>{}]/g, '')
+          .replace(' ', '-')}.jpg`,
     },
   }),
 });

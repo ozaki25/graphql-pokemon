@@ -1,21 +1,17 @@
-import {
-  GraphQLObjectType,
-  GraphQLInt,
-  GraphQLString,
-} from 'graphql';
+import { GraphQLObjectType, GraphQLInt, GraphQLString } from 'graphql';
 
 export default new GraphQLObjectType({
   name: 'PokemonEvolutionRequirement',
-  description: 'Represents a Pokémon\'s requirement to evolve',
+  description: '進化する要件を表します',
   fields: {
     amount: {
       type: GraphQLInt,
-      description: 'The amount of candy to evolve',
+      description: '進化に必要なキャンディーの量',
       resolve: obj => obj.amount,
     },
     name: {
       type: GraphQLString,
-      description: 'The name of the candy to evolve',
+      description: '進化に必要なキャンディの名前',
       resolve: obj => obj.name,
     },
   },
