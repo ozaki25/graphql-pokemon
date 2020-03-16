@@ -17,7 +17,7 @@ export async function getPokemonById(pokemonId) {
 }
 
 export async function getPokemonByNumber(pokemonNumber) {
-  const pokemon = pokemons.filter(({ number }) => number === pokemonNumber);
+  const pokemon = pokemons.filter(({ id }) => id === pokemonNumber);
   return pokemon[0] || null;
 }
 

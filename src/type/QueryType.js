@@ -47,6 +47,8 @@ const QueryType = new GraphQLObjectType({
         },
       },
       resolve: async (obj, { id, number, name }) => {
+        console.log({ id, number, name });
+
         if (id) {
           return getPokemonById(fromGlobalId(id).id);
         }
