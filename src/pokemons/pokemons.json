@@ -2,6 +2,7 @@
   {
     "id": "001",
     "name": "フシギダネ",
+    "enName": "Bulbasaur",
     "classification": "たねポケモン",
     "types": ["くさ", "どく"],
     "resistant": ["みず", "でんき", "くさ", "かくとう", "フェアリー"],
@@ -66,6 +67,7 @@
   {
     "id": "002",
     "name": "フシギソウ",
+    "enName": "Ivysaur",
     "classification": "たねポケモン",
     "types": ["くさ", "どく"],
     "resistant": ["みず", "でんき", "くさ", "かくとう", "フェアリー"],
@@ -132,6 +134,7 @@
   {
     "id": "003",
     "name": "フシギバナ",
+    "enName": "Venusaur",
     "classification": "たねポケモン",
     "types": ["くさ", "どく"],
     "resistant": ["みず", "でんき", "くさ", "かくとう", "フェアリー"],
@@ -192,6 +195,7 @@
   {
     "id": "004",
     "name": "ヒトカゲ",
+    "enName": "Charmander",
     "classification": "とかげポケモン",
     "types": ["ほのお"],
     "resistant": ["ほのお", "くさ", "こおり", "むし", "はがね", "フェアリー"],
@@ -256,6 +260,7 @@
   {
     "id": "005",
     "name": "リザード",
+    "enName": "Charmeleon",
     "classification": "かえんポケモン",
     "types": ["ほのお"],
     "resistant": ["ほのお", "くさ", "こおり", "むし", "はがね", "フェアリー"],
@@ -322,6 +327,7 @@
   {
     "id": "006",
     "name": "リザードン",
+    "enName": "Charizard",
     "classification": "かえんポケモン",
     "types": ["ほのお", "ひこう"],
     "resistant": ["ほのお", "くさ", "かくとう", "むし", "はがね", "フェアリー"],
@@ -382,6 +388,7 @@
   {
     "id": "007",
     "name": "ゼニガメ",
+    "enName": "Squirtle",
     "classification": "かめのこポケモン",
     "types": ["みず"],
     "resistant": ["ほのお", "みず", "こおり", "はがね"],
@@ -446,6 +453,7 @@
   {
     "id": "008",
     "name": "カメール",
+    "enName": "Wartortle",
     "classification": "かめポケモン",
     "types": ["みず"],
     "resistant": ["ほのお", "みず", "こおり", "はがね"],
@@ -517,6 +525,7 @@
   {
     "id": "009",
     "name": "カメックス",
+    "enName": "Blastoise",
     "classification": "こうらポケモン",
     "types": ["みず"],
     "resistant": ["ほのお", "みず", "こおり", "はがね"],
@@ -582,6 +591,7 @@
   {
     "id": "010",
     "name": "キャタピー",
+    "enName": "Caterpie",
     "classification": "いもむしポケモン",
     "types": ["むし"],
     "resistant": ["くさ", "かくとう", "じめん"],
@@ -636,6 +646,7 @@
   {
     "id": "011",
     "name": "トランセル",
+    "enName": "Metapod",
     "classification": "さなぎポケモン",
     "types": ["むし"],
     "resistant": ["くさ", "かくとう", "じめん"],
@@ -692,6 +703,7 @@
   {
     "id": "012",
     "name": "バタフリー",
+    "enName": "Butterfree",
     "classification": "ちょうちょポケモン",
     "types": ["むし", "ひこう"],
     "resistant": ["くさ", "かくとう", "じめん", "むし"],
@@ -752,6 +764,7 @@
   {
     "id": "013",
     "name": "ビードル",
+    "enName": "Weedle",
     "classification": "けむしポケモン",
     "types": ["むし", "どく"],
     "resistant": ["くさ", "かくとう", "どく", "むし", "フェアリー"],
@@ -806,6 +819,7 @@
   {
     "id": "014",
     "name": "コクーン",
+    "enName": "Kakuna",
     "classification": "さなぎポケモン",
     "types": ["むし", "どく"],
     "resistant": ["くさ", "かくとう", "どく", "むし", "フェアリー"],
@@ -862,6 +876,7 @@
   {
     "id": "015",
     "name": "スピアー",
+    "enName": "Beedrill",
     "classification": "どくばちポケモン",
     "types": ["むし", "どく"],
     "resistant": ["くさ", "かくとう", "どく", "むし", "フェアリー"],
@@ -922,6 +937,7 @@
   {
     "id": "016",
     "name": "ポッポ",
+    "enName": "Pidgey",
     "classification": "ことりポケモン",
     "types": ["ノーマル", "ひこう"],
     "resistant": ["くさ", "じめん", "むし", "ゴースト"],
@@ -986,6 +1002,7 @@
   {
     "id": "017",
     "name": "ピジョン",
+    "enName": "Pidgeotto",
     "classification": "とりポケモン",
     "types": ["ノーマル", "ひこう"],
     "resistant": ["くさ", "じめん", "むし", "ゴースト"],
@@ -1052,6 +1069,7 @@
   {
     "id": "018",
     "name": "ピジョット",
+    "enName": "Pidgeot",
     "classification": "とりポケモン",
     "types": ["ノーマル", "ひこう"],
     "resistant": ["くさ", "じめん", "むし", "ゴースト"],
@@ -1112,6 +1130,7 @@
   {
     "id": "019",
     "name": "コラッタ",
+    "enName": "Rattata",
     "classification": "ねずみポケモン",
     "types": ["ノーマル"],
     "resistant": ["ゴースト"],
@@ -1172,6 +1191,7 @@
   {
     "id": "020",
     "name": "ラッタ",
+    "enName": "Raticate",
     "classification": "ねずみポケモン",
     "types": ["ノーマル"],
     "resistant": ["ゴースト"],
@@ -1228,6 +1248,7 @@
   {
     "id": "021",
     "name": "オニスズメ",
+    "enName": "Spearow",
     "classification": "ことりポケモン",
     "types": ["ノーマル", "ひこう"],
     "resistant": ["くさ", "じめん", "むし", "ゴースト"],
@@ -1288,6 +1309,7 @@
   {
     "id": "022",
     "name": "オニドリル",
+    "enName": "Fearow",
     "classification": "くちばしポケモン",
     "types": ["ノーマル", "ひこう"],
     "resistant": ["くさ", "じめん", "むし", "ゴースト"],
@@ -1344,6 +1366,7 @@
   {
     "id": "023",
     "name": "アーボ",
+    "enName": "Ekans",
     "classification": "へびポケモン",
     "types": ["どく"],
     "resistant": ["くさ", "かくとう", "どく", "むし", "フェアリー"],
@@ -1404,6 +1427,7 @@
   {
     "id": "024",
     "name": "アーボック",
+    "enName": "Arbok",
     "classification": "コブラポケモン",
     "types": ["どく"],
     "resistant": ["くさ", "かくとう", "どく", "むし", "フェアリー"],
@@ -1460,6 +1484,7 @@
   {
     "id": "025",
     "name": "ピカチュウ",
+    "enName": "Pikachu",
     "classification": "ねずみポケモン",
     "types": ["でんき"],
     "resistant": ["でんき", "ひこう", "はがね"],
@@ -1520,6 +1545,7 @@
   {
     "id": "026",
     "name": "ライチュウ",
+    "enName": "Raichu",
     "classification": "ねずみポケモン",
     "types": ["でんき"],
     "resistant": ["でんき", "ひこう", "はがね"],
@@ -1576,6 +1602,7 @@
   {
     "id": "027",
     "name": "サンド",
+    "enName": "Sandshrew",
     "classification": "ねずみポケモン",
     "types": ["じめん"],
     "resistant": ["でんき", "どく", "いわ"],
@@ -1636,6 +1663,7 @@
   {
     "id": "028",
     "name": "サンドパン",
+    "enName": "Sandslash",
     "classification": "ねずみポケモン",
     "types": ["じめん"],
     "resistant": ["でんき", "どく", "いわ"],
@@ -1692,6 +1720,7 @@
   {
     "id": "029",
     "name": "ニドラン♀",
+    "enName": "Nidoran-F",
     "classification": "どくばりポケモン",
     "types": ["どく"],
     "resistant": ["くさ", "かくとう", "どく", "むし", "フェアリー"],
@@ -1756,6 +1785,7 @@
   {
     "id": "030",
     "name": "ニドリーナ",
+    "enName": "Nidorina",
     "classification": "どくばりポケモン",
     "types": ["どく"],
     "resistant": ["くさ", "かくとう", "どく", "むし", "フェアリー"],
@@ -1822,6 +1852,7 @@
   {
     "id": "031",
     "name": "ニドクイーン",
+    "enName": "Nidoqueen",
     "classification": "ドリルポケモン",
     "types": ["どく", "じめん"],
     "resistant": ["でんき", "かくとう", "どく", "むし", "いわ", "フェアリー"],
@@ -1882,6 +1913,7 @@
   {
     "id": "032",
     "name": "ニドラン♂",
+    "enName": "Nidoran-M",
     "classification": "どくばりポケモン",
     "types": ["どく"],
     "resistant": ["くさ", "かくとう", "どく", "むし", "フェアリー"],
@@ -1946,6 +1978,7 @@
   {
     "id": "033",
     "name": "ニドリーノ",
+    "enName": "Nidorino",
     "classification": "どくばりポケモン",
     "types": ["どく"],
     "resistant": ["くさ", "かくとう", "どく", "むし", "フェアリー"],
@@ -2012,6 +2045,7 @@
   {
     "id": "034",
     "name": "ニドキング",
+    "enName": "Nidoking",
     "classification": "ドリルポケモン",
     "types": ["どく", "じめん"],
     "resistant": ["でんき", "かくとう", "どく", "むし", "いわ", "フェアリー"],
@@ -2072,6 +2106,7 @@
   {
     "id": "035",
     "name": "ピッピ",
+    "enName": "Clefairy",
     "classification": "ようせいポケモン",
     "types": ["フェアリー"],
     "resistant": ["かくとう", "むし", "ドラゴン", "あく"],
@@ -2132,6 +2167,7 @@
   {
     "id": "036",
     "name": "ピクシー",
+    "enName": "Clefable",
     "classification": "ようせいポケモン",
     "types": ["フェアリー"],
     "resistant": ["かくとう", "むし", "ドラゴン", "あく"],
@@ -2188,6 +2224,7 @@
   {
     "id": "037",
     "name": "ロコン",
+    "enName": "Vulpix",
     "classification": "きつねポケモン",
     "types": ["ほのお"],
     "resistant": ["ほのお", "くさ", "こおり", "むし", "はがね", "フェアリー"],
@@ -2248,6 +2285,7 @@
   {
     "id": "038",
     "name": "キュウコン",
+    "enName": "Ninetales",
     "classification": "きつねポケモン",
     "types": ["ほのお"],
     "resistant": ["ほのお", "くさ", "こおり", "むし", "はがね", "フェアリー"],
@@ -2304,6 +2342,7 @@
   {
     "id": "039",
     "name": "プリン",
+    "enName": "Jigglypuff",
     "classification": "ふうせんポケモン",
     "types": ["ノーマル", "フェアリー"],
     "resistant": ["むし", "ゴースト", "ドラゴン", "あく"],
@@ -2364,6 +2403,7 @@
   {
     "id": "040",
     "name": "プクリン",
+    "enName": "Wigglytuff",
     "classification": "ふうせんポケモン",
     "types": ["ノーマル", "フェアリー"],
     "resistant": ["むし", "ゴースト", "ドラゴン", "あく"],
@@ -2420,6 +2460,7 @@
   {
     "id": "041",
     "name": "ズバット",
+    "enName": "Zubat",
     "classification": "こうもりポケモン",
     "types": ["どく", "ひこう"],
     "resistant": ["くさ", "かくとう", "どく", "むし", "フェアリー"],
@@ -2480,6 +2521,7 @@
   {
     "id": "042",
     "name": "ゴルバット",
+    "enName": "Golbat",
     "classification": "こうもりポケモン",
     "types": ["どく", "ひこう"],
     "resistant": ["くさ", "かくとう", "どく", "むし", "フェアリー"],
@@ -2536,6 +2578,7 @@
   {
     "id": "043",
     "name": "ナゾノクサ",
+    "enName": "Oddish",
     "classification": "ざっそうポケモン",
     "types": ["くさ", "どく"],
     "resistant": ["みず", "でんき", "くさ", "かくとう", "フェアリー"],
@@ -2600,6 +2643,7 @@
   {
     "id": "044",
     "name": "クサイハナ",
+    "enName": "Gloom",
     "classification": "ざっそうポケモン",
     "types": ["くさ", "どく"],
     "resistant": ["みず", "でんき", "くさ", "かくとう", "フェアリー"],
@@ -2666,6 +2710,7 @@
   {
     "id": "045",
     "name": "ラフレシア",
+    "enName": "Vileplume",
     "classification": "フラワーポケモン",
     "types": ["くさ", "どく"],
     "resistant": ["みず", "でんき", "くさ", "かくとう", "フェアリー"],
@@ -2726,6 +2771,7 @@
   {
     "id": "046",
     "name": "パラス",
+    "enName": "Paras",
     "classification": "きのこポケモン",
     "types": ["むし", "くさ"],
     "resistant": ["みず", "でんき", "くさ", "かくとう", "じめん"],
@@ -2786,6 +2832,7 @@
   {
     "id": "047",
     "name": "パラセクト",
+    "enName": "Parasect",
     "classification": "きのこポケモン",
     "types": ["むし", "くさ"],
     "resistant": ["みず", "でんき", "くさ", "かくとう", "じめん"],
@@ -2842,6 +2889,7 @@
   {
     "id": "048",
     "name": "コンパン",
+    "enName": "Venonat",
     "classification": "こんちゅうポケモン",
     "types": ["むし", "どく"],
     "resistant": ["くさ", "かくとう", "どく", "むし", "フェアリー"],
@@ -2902,6 +2950,7 @@
   {
     "id": "049",
     "name": "モルフォン",
+    "enName": "Venomoth",
     "classification": "どくがポケモン",
     "types": ["むし", "どく"],
     "resistant": ["くさ", "かくとう", "どく", "むし", "フェアリー"],
@@ -2958,6 +3007,7 @@
   {
     "id": "050",
     "name": "ディグダ",
+    "enName": "Diglett",
     "classification": "もぐらポケモン",
     "types": ["じめん"],
     "resistant": ["でんき", "どく", "いわ"],
@@ -3018,6 +3068,7 @@
   {
     "id": "051",
     "name": "ダグトリオ",
+    "enName": "Dugtrio",
     "classification": "もぐらポケモン",
     "types": ["じめん"],
     "resistant": ["でんき", "どく", "いわ"],
@@ -3074,6 +3125,7 @@
   {
     "id": "052",
     "name": "ニャース",
+    "enName": "Meowth",
     "classification": "ばけねこポケモン",
     "types": ["ノーマル"],
     "resistant": ["ゴースト"],
@@ -3134,6 +3186,7 @@
   {
     "id": "053",
     "name": "ペルシアン",
+    "enName": "Persian",
     "classification": "シャムネコポケモン",
     "types": ["ノーマル"],
     "resistant": ["ゴースト"],
@@ -3190,6 +3243,7 @@
   {
     "id": "054",
     "name": "コダック",
+    "enName": "Psyduck",
     "classification": "あひるポケモン",
     "types": ["みず"],
     "resistant": ["ほのお", "みず", "こおり", "はがね"],
@@ -3250,6 +3304,7 @@
   {
     "id": "055",
     "name": "ゴルダック",
+    "enName": "Golduck",
     "classification": "あひるポケモン",
     "types": ["みず"],
     "resistant": ["ほのお", "みず", "こおり", "はがね"],
@@ -3311,6 +3366,7 @@
   {
     "id": "056",
     "name": "マンキー",
+    "enName": "Mankey",
     "classification": "ぶたざるポケモン",
     "types": ["かくとう"],
     "resistant": ["むし", "いわ", "あく"],
@@ -3371,6 +3427,7 @@
   {
     "id": "057",
     "name": "オコリザル",
+    "enName": "Growlithe",
     "classification": "ぶたざるポケモン",
     "types": ["かくとう"],
     "resistant": ["むし", "いわ", "あく"],
@@ -3427,6 +3484,7 @@
   {
     "id": "058",
     "name": "ガーディ",
+    "enName": "Arcanine",
     "classification": "こいぬポケモン",
     "types": ["ほのお"],
     "resistant": ["ほのお", "くさ", "こおり", "むし", "はがね", "フェアリー"],
@@ -3487,6 +3545,7 @@
   {
     "id": "059",
     "name": "ウィンディ",
+    "enName": "Poliwag",
     "classification": "でんせつポケモン",
     "types": ["ほのお"],
     "resistant": ["ほのお", "くさ", "こおり", "むし", "はがね", "フェアリー"],
@@ -3543,6 +3602,7 @@
   {
     "id": "060",
     "name": "ニョロモ",
+    "enName": "Poliwhirl",
     "classification": "おたまポケモン",
     "types": ["みず"],
     "resistant": ["ほのお", "みず", "こおり", "はがね"],
@@ -3607,6 +3667,7 @@
   {
     "id": "061",
     "name": "ニョロゾ",
+    "enName": "Poliwhirl",
     "classification": "おたまポケモン",
     "types": ["みず"],
     "resistant": ["ほのお", "みず", "こおり", "はがね"],
@@ -3673,6 +3734,7 @@
   {
     "id": "062",
     "name": "ニョロボン",
+    "enName": "Poliwrath",
     "classification": "おたまポケモン",
     "types": ["みず", "かくとう"],
     "resistant": ["ほのお", "みず", "こおり", "むし", "いわ", "あく", "はがね"],
@@ -3733,6 +3795,7 @@
   {
     "id": "063",
     "name": "ケーシィ",
+    "enName": "Kadabra",
     "classification": "ねんりきポケモン",
     "types": ["エスパー"],
     "resistant": ["かくとう", "エスパー"],
@@ -3793,6 +3856,7 @@
   {
     "id": "064",
     "name": "ユンゲラー",
+    "enName": "Kadabra",
     "classification": "ねんりきポケモン",
     "types": ["エスパー"],
     "resistant": ["かくとう", "エスパー"],
@@ -3859,6 +3923,7 @@
   {
     "id": "065",
     "name": "フーディン",
+    "enName": "Alakazam",
     "classification": "ねんりきポケモン",
     "types": ["エスパー"],
     "resistant": ["かくとう", "エスパー"],
@@ -3919,6 +3984,7 @@
   {
     "id": "066",
     "name": "ワンリキー",
+    "enName": "Machop",
     "classification": "かいりきポケモン",
     "types": ["かくとう"],
     "resistant": ["むし", "いわ", "あく"],
@@ -3983,6 +4049,7 @@
   {
     "id": "067",
     "name": "ゴーリキー",
+    "enName": "Machoke",
     "classification": "かいりきポケモン",
     "types": ["かくとう"],
     "resistant": ["むし", "いわ", "あく"],
@@ -4049,6 +4116,7 @@
   {
     "id": "068",
     "name": "カイリキー",
+    "enName": "Machamp",
     "classification": "かいりきポケモン",
     "types": ["かくとう"],
     "resistant": ["むし", "いわ", "あく"],
@@ -4109,6 +4177,7 @@
   {
     "id": "069",
     "name": "マダツボミ",
+    "enName": "Bellsprout",
     "classification": "フラワーポケモン",
     "types": ["くさ", "どく"],
     "resistant": ["みず", "でんき", "くさ", "かくとう", "フェアリー"],
@@ -4173,6 +4242,7 @@
   {
     "id": "070",
     "name": "ウツドン",
+    "enName": "Weepinbell",
     "classification": "ハエとりポケモン",
     "types": ["くさ", "どく"],
     "resistant": ["みず", "でんき", "くさ", "かくとう", "フェアリー"],
@@ -4239,6 +4309,7 @@
   {
     "id": "071",
     "name": "ウツボット",
+    "enName": "Victreebel",
     "classification": "ハエとりポケモン",
     "types": ["くさ", "どく"],
     "resistant": ["みず", "でんき", "くさ", "かくとう", "フェアリー"],
@@ -4299,6 +4370,7 @@
   {
     "id": "072",
     "name": "メノクラゲ",
+    "enName": "Tentacool",
     "classification": "くらげポケモン",
     "types": ["みず", "どく"],
     "resistant": [
@@ -4368,6 +4440,7 @@
   {
     "id": "073",
     "name": "ドククラゲ",
+    "enName": "Tentacruel",
     "classification": "くらげポケモン",
     "types": ["みず", "どく"],
     "resistant": [
@@ -4433,6 +4506,7 @@
   {
     "id": "074",
     "name": "イシツブテ",
+    "enName": "Geodude",
     "classification": "がんせきポケモン",
     "types": ["いわ", "じめん"],
     "resistant": ["ノーマル", "ほのお", "でんき", "どく", "ひこう", "いわ"],
@@ -4497,6 +4571,7 @@
   {
     "id": "075",
     "name": "ゴローン",
+    "enName": "Graveler",
     "classification": "がんせきポケモン",
     "types": ["いわ", "じめん"],
     "resistant": ["ノーマル", "ほのお", "でんき", "どく", "ひこう", "いわ"],
@@ -4563,6 +4638,7 @@
   {
     "id": "076",
     "name": "ゴローニャ",
+    "enName": "Golem",
     "classification": "メガトンポケモン",
     "types": ["いわ", "じめん"],
     "resistant": ["ノーマル", "ほのお", "でんき", "どく", "ひこう", "いわ"],
@@ -4623,6 +4699,7 @@
   {
     "id": "077",
     "name": "ポニータ",
+    "enName": "Ponyta",
     "classification": "ひのうまポケモン",
     "types": ["ほのお"],
     "resistant": ["ほのお", "くさ", "こおり", "むし", "はがね", "フェアリー"],
@@ -4683,6 +4760,7 @@
   {
     "id": "078",
     "name": "ギャロップ",
+    "enName": "Rapidash",
     "classification": "ひのうまポケモン",
     "types": ["ほのお"],
     "resistant": ["ほのお", "くさ", "こおり", "むし", "はがね", "フェアリー"],
@@ -4739,6 +4817,7 @@
   {
     "id": "079",
     "name": "ヤドン",
+    "enName": "Slowpoke",
     "classification": "まぬけポケモン",
     "types": ["みず", "エスパー"],
     "resistant": ["ほのお", "みず", "こおり", "かくとう", "エスパー", "はがね"],
@@ -4799,6 +4878,7 @@
   {
     "id": "080",
     "name": "ヤドラン",
+    "enName": "Slowbro",
     "classification": "やどかりポケモン",
     "types": ["みず", "エスパー"],
     "resistant": ["ほのお", "みず", "こおり", "かくとう", "エスパー", "はがね"],
@@ -4855,6 +4935,7 @@
   {
     "id": "081",
     "name": "コイル",
+    "enName": "Magnemite",
     "classification": "じしゃくポケモン",
     "types": ["でんき", "はがね"],
     "resistant": [
@@ -4928,6 +5009,7 @@
   {
     "id": "082",
     "name": "レアコイル",
+    "enName": "Magneton",
     "classification": "じしゃくポケモン",
     "types": ["でんき", "はがね"],
     "resistant": [
@@ -4997,6 +5079,7 @@
   {
     "id": "083",
     "name": "カモネギ",
+    "enName": "Farfetch'd",
     "classification": " かるがもポケモン",
     "types": ["ノーマル", "ひこう"],
     "resistant": ["くさ", "じめん", "むし", "ゴースト"],
@@ -5045,6 +5128,7 @@
   {
     "id": "084",
     "name": "ドードー",
+    "enName": "Doduo",
     "classification": "ふたごどりポケモン",
     "types": ["ノーマル", "ひこう"],
     "resistant": ["くさ", "じめん", "むし", "ゴースト"],
@@ -5105,6 +5189,7 @@
   {
     "id": "085",
     "name": "ドードリオ",
+    "enName": "Dodrio",
     "classification": "みつごどりポケモン",
     "types": ["ノーマル", "ひこう"],
     "resistant": ["くさ", "じめん", "むし", "ゴースト"],
@@ -5161,6 +5246,7 @@
   {
     "id": "086",
     "name": "パウワウ",
+    "enName": "Seel",
     "classification": "あしかポケモン",
     "types": ["みず"],
     "resistant": ["ほのお", "みず", "こおり", "はがね"],
@@ -5221,6 +5307,7 @@
   {
     "id": "087",
     "name": "ジュゴン",
+    "enName": "Dewgong",
     "classification": "あしかポケモン",
     "types": ["みず", "こおり"],
     "resistant": ["みず", "こおり"],
@@ -5277,6 +5364,7 @@
   {
     "id": "088",
     "name": "ベトベター",
+    "enName": "Grimer",
     "classification": "ヘドロポケモン",
     "types": ["どく"],
     "resistant": ["くさ", "かくとう", "どく", "むし", "フェアリー"],
@@ -5337,6 +5425,7 @@
   {
     "id": "089",
     "name": "ベトベトン",
+    "enName": "Muk",
     "classification": "ヘドロポケモン",
     "types": ["どく"],
     "resistant": ["くさ", "かくとう", "どく", "むし", "フェアリー"],
@@ -5393,6 +5482,7 @@
   {
     "id": "090",
     "name": "シェルダー",
+    "enName": "Shellder",
     "classification": "2まいがいポケモン",
     "types": ["みず"],
     "resistant": ["ほのお", "みず", "こおり", "はがね"],
@@ -5453,6 +5543,7 @@
   {
     "id": "091",
     "name": "パルシェン",
+    "enName": "Cloyster",
     "classification": "2まいがいポケモン",
     "types": ["みず", "こおり"],
     "resistant": ["みず", "こおり"],
@@ -5509,6 +5600,7 @@
   {
     "id": "092",
     "name": "ゴース",
+    "enName": "Gastly",
     "classification": "ガスじょうポケモン",
     "types": ["ゴースト", "どく"],
     "resistant": ["ノーマル", "くさ", "かくとう", "どく", "むし", "フェアリー"],
@@ -5573,6 +5665,7 @@
   {
     "id": "093",
     "name": "ゴースト",
+    "enName": "Haunter",
     "classification": "ガスじょうポケモン",
     "types": ["ゴースト", "どく"],
     "resistant": ["ノーマル", "くさ", "かくとう", "どく", "むし", "フェアリー"],
@@ -5639,6 +5732,7 @@
   {
     "id": "094",
     "name": "ゲンガー",
+    "enName": "Gengar",
     "classification": "シャドーポケモン",
     "types": ["ゴースト", "どく"],
     "resistant": ["ノーマル", "くさ", "かくとう", "どく", "むし", "フェアリー"],
@@ -5699,6 +5793,7 @@
   {
     "id": "095",
     "name": "イワーク",
+    "enName": "Onix",
     "classification": "いわへびポケモン",
     "types": ["いわ", "じめん"],
     "resistant": ["ノーマル", "ほのお", "でんき", "どく", "ひこう", "いわ"],
@@ -5749,6 +5844,7 @@
   {
     "id": "096",
     "name": "スリープ",
+    "enName": "Drowzee",
     "classification": "さいみんポケモン",
     "types": ["エスパー"],
     "resistant": ["かくとう", "エスパー"],
@@ -5809,6 +5905,7 @@
   {
     "id": "097",
     "name": "スリーパー",
+    "enName": "Hypno",
     "classification": "さいみんポケモン",
     "types": ["エスパー"],
     "resistant": ["かくとう", "エスパー"],
@@ -5865,6 +5962,7 @@
   {
     "id": "098",
     "name": "クラブ",
+    "enName": "Krabby",
     "classification": "さわがにポケモン",
     "types": ["みず"],
     "resistant": ["ほのお", "みず", "こおり", "はがね"],
@@ -5925,6 +6023,7 @@
   {
     "id": "099",
     "name": "キングラー",
+    "enName": "Kingler",
     "classification": "はさみポケモン",
     "types": ["みず"],
     "resistant": ["ほのお", "みず", "こおり", "はがね"],
@@ -5981,6 +6080,7 @@
   {
     "id": "100",
     "name": "ビリリダマ",
+    "enName": "Voltorb",
     "classification": "ボールポケモン",
     "types": ["でんき"],
     "resistant": ["でんき", "ひこう", "はがね"],
@@ -6041,6 +6141,7 @@
   {
     "id": "101",
     "name": "マルマイン",
+    "enName": "Electrode",
     "classification": "ボールポケモン",
     "types": ["でんき"],
     "resistant": ["でんき", "ひこう", "はがね"],
@@ -6097,6 +6198,7 @@
   {
     "id": "102",
     "name": "タマタマ",
+    "enName": "Exeggcute",
     "classification": "たまごポケモン",
     "types": ["くさ", "エスパー"],
     "resistant": ["みず", "でんき", "くさ", "かくとう", "じめん", "エスパー"],
@@ -6160,6 +6262,7 @@
   {
     "id": "103",
     "name": "ナッシー",
+    "enName": "Exeggutor",
     "classification": "やしのみポケモン",
     "types": ["くさ", "エスパー"],
     "resistant": ["みず", "でんき", "くさ", "かくとう", "じめん", "エスパー"],
@@ -6224,6 +6327,7 @@
   {
     "id": "104",
     "name": "カラカラ",
+    "enName": "Cubone",
     "classification": "こどくポケモン",
     "types": ["じめん"],
     "resistant": ["でんき", "どく", "いわ"],
@@ -6284,6 +6388,7 @@
   {
     "id": "105",
     "name": "ガラガラ",
+    "enName": "Marowak",
     "classification": "ほねずきポケモン",
     "types": ["じめん"],
     "resistant": ["でんき", "どく", "いわ"],
@@ -6340,6 +6445,7 @@
   {
     "id": "106",
     "name": "サワムラー",
+    "enName": "Hitmonlee",
     "classification": "キックポケモン",
     "types": ["かくとう"],
     "resistant": ["むし", "いわ", "あく"],
@@ -6390,6 +6496,7 @@
   {
     "id": "107",
     "name": "エビワラー",
+    "enName": "Hitmonchan",
     "classification": "パンチポケモン",
     "types": ["かくとう"],
     "resistant": ["むし", "いわ", "あく"],
@@ -6445,6 +6552,7 @@
   {
     "id": "108",
     "name": "ベロリンガ",
+    "enName": "Lickitung",
     "classification": "なめまわしポケモン",
     "types": ["ノーマル"],
     "resistant": ["ゴースト"],
@@ -6495,6 +6603,7 @@
   {
     "id": "109",
     "name": "ドガース",
+    "enName": "Koffing",
     "classification": "どくガスポケモン",
     "types": ["どく"],
     "resistant": ["くさ", "かくとう", "どく", "むし", "フェアリー"],
@@ -6555,6 +6664,7 @@
   {
     "id": "110",
     "name": "マタドガス",
+    "enName": "Weezing",
     "classification": "どくガスポケモン",
     "types": ["どく"],
     "resistant": ["くさ", "かくとう", "どく", "むし", "フェアリー"],
@@ -6611,6 +6721,7 @@
   {
     "id": "111",
     "name": "サイホーン",
+    "enName": "Rhyhorn",
     "classification": "とげとげポケモン",
     "types": ["じめん", "いわ"],
     "resistant": ["ノーマル", "ほのお", "でんき", "どく", "ひこう", "いわ"],
@@ -6671,6 +6782,7 @@
   {
     "id": "112",
     "name": "サイドン",
+    "enName": "Rhydon",
     "classification": "ドリルポケモン",
     "types": ["じめん", "いわ"],
     "resistant": ["ノーマル", "ほのお", "でんき", "どく", "ひこう", "いわ"],
@@ -6727,6 +6839,7 @@
   {
     "id": "113",
     "name": "ラッキー",
+    "enName": "Chansey",
     "classification": "たまごポケモン",
     "types": ["ノーマル"],
     "resistant": ["ゴースト"],
@@ -6777,6 +6890,7 @@
   {
     "id": "114",
     "name": "モンジャラ",
+    "enName": "Tangela",
     "classification": "ツルじょうポケモン",
     "types": ["くさ"],
     "resistant": ["みず", "でんき", "くさ", "じめん"],
@@ -6822,6 +6936,7 @@
   {
     "id": "115",
     "name": "ガルーラ",
+    "enName": "Kangaskhan",
     "classification": "おやこポケモン",
     "types": ["ノーマル"],
     "resistant": ["ゴースト"],
@@ -6874,6 +6989,7 @@
   {
     "id": "116",
     "name": "タッツー",
+    "enName": "Horsea",
     "classification": "ドラゴンポケモン",
     "types": ["みず"],
     "resistant": ["ほのお", "みず", "こおり", "はがね"],
@@ -6934,6 +7050,7 @@
   {
     "id": "117",
     "name": "シードラ",
+    "enName": "Seadra",
     "classification": "ドラゴンポケモン",
     "types": ["みず"],
     "resistant": ["ほのお", "みず", "こおり", "はがね"],
@@ -6990,6 +7107,7 @@
   {
     "id": "118",
     "name": "トサキント",
+    "enName": "Goldeen",
     "classification": "きんぎょポケモン",
     "types": ["みず"],
     "resistant": ["ほのお", "みず", "こおり", "はがね"],
@@ -7050,6 +7168,7 @@
   {
     "id": "119",
     "name": "アズマオウ",
+    "enName": "Seaking",
     "classification": "きんぎょポケモン",
     "types": ["みず"],
     "resistant": ["ほのお", "みず", "こおり", "はがね"],
@@ -7106,6 +7225,7 @@
   {
     "id": "120",
     "name": "ヒトデマン",
+    "enName": "Staryu",
     "classification": "ほしがたポケモン",
     "types": ["みず"],
     "resistant": ["ほのお", "みず", "こおり", "はがね"],
@@ -7166,6 +7286,7 @@
   {
     "id": "121",
     "name": "スターミー",
+    "enName": "Starmie",
     "classification": "なぞのポケモン",
     "types": ["みず", "エスパー"],
     "resistant": ["ほのお", "みず", "こおり", "かくとう", "エスパー", "はがね"],
@@ -7222,6 +7343,7 @@
   {
     "id": "122",
     "name": "バリヤード",
+    "enName": "Mr. Mime",
     "classification": "バリアーポケモン",
     "types": ["エスパー", "フェアリー"],
     "resistant": ["かくとう", "エスパー", "ドラゴン"],
@@ -7274,7 +7396,7 @@
   {
     "id": "123",
     "name": "ストライク",
-    "classification": "かまきりポケモン",
+    "enName": "Scyther",
     "types": ["むし", "ひこう"],
     "resistant": ["くさ", "かくとう", "じめん", "むし"],
     "weaknesses": ["ほのお", "でんき", "こおり", "ひこう", "いわ"],
@@ -7324,6 +7446,7 @@
   {
     "id": "124",
     "name": "ルージュラ",
+    "enName": "Jynx",
     "classification": "ひとがたポケモン",
     "types": ["こおり", "エスパー"],
     "resistant": ["こおり", "エスパー"],
@@ -7374,6 +7497,7 @@
   {
     "id": "125",
     "name": "エレブー",
+    "enName": "Electabuzz",
     "classification": "でんげきポケモン",
     "types": ["でんき"],
     "resistant": ["でんき", "ひこう", "はがね"],
@@ -7424,6 +7548,7 @@
   {
     "id": "126",
     "name": "ブーバー",
+    "enName": "Magmar",
     "classification": "ひふきポケモン",
     "types": ["ほのお"],
     "resistant": ["ほのお", "くさ", "こおり", "むし", "はがね", "フェアリー"],
@@ -7474,6 +7599,7 @@
   {
     "id": "127",
     "name": "カイロス",
+    "enName": "Pinsir",
     "classification": "くわがたポケモン",
     "types": ["むし"],
     "resistant": ["くさ", "かくとう", "じめん"],
@@ -7524,6 +7650,7 @@
   {
     "id": "128",
     "name": "ケンタロス",
+    "enName": "Tauros",
     "classification": "あばれうしポケモン",
     "types": ["ノーマル"],
     "resistant": ["ゴースト"],
@@ -7576,6 +7703,7 @@
   {
     "id": "129",
     "name": "コイキング",
+    "enName": "Magikarp",
     "classification": "さかなポケモン",
     "types": ["みず"],
     "resistant": ["ほのお", "みず", "こおり", "はがね"],
@@ -7621,6 +7749,7 @@
   {
     "id": "130",
     "name": "ギャラドス",
+    "enName": "Gyarados",
     "classification": "きょうあくポケモン",
     "types": ["みず", "ひこう"],
     "resistant": ["ほのお", "みず", "かくとう", "じめん", "むし", "はがね"],
@@ -7677,6 +7806,7 @@
   {
     "id": "131",
     "name": "ラプラス",
+    "enName": "Lapras",
     "classification": "のりものポケモン",
     "types": ["みず", "こおり"],
     "resistant": ["みず", "こおり"],
@@ -7727,6 +7857,7 @@
   {
     "id": "132",
     "name": "メタモン",
+    "enName": "Ditto",
     "classification": "へんしんポケモン",
     "types": ["ノーマル"],
     "resistant": ["ゴースト"],
@@ -7762,6 +7893,7 @@
   {
     "id": "133",
     "name": "イーブイ",
+    "enName": "Eevee",
     "classification": "しんかポケモン",
     "types": ["ノーマル"],
     "resistant": ["ゴースト"],
@@ -7830,6 +7962,7 @@
   {
     "id": "134",
     "name": "シャワーズ",
+    "enName": "Vaporeon",
     "classification": "あわはきポケモン",
     "types": ["みず"],
     "resistant": ["ほのお", "みず", "こおり", "はがね"],
@@ -7881,6 +8014,7 @@
   {
     "id": "135",
     "name": "サンダース",
+    "enName": "Jolteon",
     "classification": "かみなりポケモン",
     "types": ["でんき"],
     "resistant": ["でんき", "ひこう", "はがね"],
@@ -7932,6 +8066,7 @@
   {
     "id": "136",
     "name": "ブースター",
+    "enName": "Flareon",
     "classification": "ほのおポケモン",
     "types": ["ほのお"],
     "resistant": ["ほのお", "くさ", "こおり", "むし", "はがね", "フェアリー"],
@@ -7983,6 +8118,7 @@
   {
     "id": "137",
     "name": "ポリゴン",
+    "enName": "Porygon",
     "classification": "バーチャルポケモン",
     "types": ["ノーマル"],
     "resistant": ["ゴースト"],
@@ -8033,6 +8169,7 @@
   {
     "id": "138",
     "name": "オムナイト",
+    "enName": "Omanyte",
     "classification": "うずまきポケモン",
     "types": ["いわ", "みず"],
     "resistant": ["ノーマル", "ほのお", "こおり", "どく", "ひこう"],
@@ -8093,6 +8230,7 @@
   {
     "id": "139",
     "name": "オムスター",
+    "enName": "Omastar",
     "classification": "うずまきポケモン",
     "types": ["いわ", "みず"],
     "resistant": ["ノーマル", "ほのお", "こおり", "どく", "ひこう"],
@@ -8149,6 +8287,7 @@
   {
     "id": "140",
     "name": "カブト",
+    "enName": "Kabuto",
     "classification": "こうらポケモン",
     "types": ["いわ", "みず"],
     "resistant": ["ノーマル", "ほのお", "こおり", "どく", "ひこう"],
@@ -8209,6 +8348,7 @@
   {
     "id": "141",
     "name": "カブトプス",
+    "enName": "Kabutops",
     "classification": "こうらポケモン",
     "types": ["いわ", "みず"],
     "resistant": ["ノーマル", "ほのお", "こおり", "どく", "ひこう"],
@@ -8265,6 +8405,7 @@
   {
     "id": "142",
     "name": "プテラ",
+    "enName": "Aerodactyl",
     "classification": "かせきポケモン",
     "types": ["いわ", "ひこう"],
     "resistant": ["ノーマル", "ほのお", "どく", "ひこう", "むし"],
@@ -8315,6 +8456,7 @@
   {
     "id": "143",
     "name": "カビゴン",
+    "enName": "Snorlax",
     "classification": "いねむりポケモン",
     "types": ["ノーマル"],
     "resistant": ["ゴースト"],
@@ -8365,6 +8507,7 @@
   {
     "id": "144",
     "name": "フリーザー",
+    "enName": "Articuno",
     "classification": "れいとうポケモン",
     "types": ["こおり", "ひこう"],
     "resistant": ["くさ", "じめん", "むし"],
@@ -8412,6 +8555,7 @@
   {
     "id": "145",
     "name": "サンダー",
+    "enName": "Zapdos",
     "classification": "でんげきポケモン",
     "types": ["でんき", "ひこう"],
     "resistant": ["くさ", "かくとう", "ひこう", "むし", "はがね"],
@@ -8459,6 +8603,7 @@
   {
     "id": "146",
     "name": "ファイヤー",
+    "enName": "Moltres",
     "classification": "かえんポケモン",
     "types": ["ほのお", "ひこう"],
     "resistant": ["ほのお", "くさ", "かくとう", "むし", "はがね", "フェアリー"],
@@ -8506,6 +8651,7 @@
   {
     "id": "147",
     "name": "ミニリュウ",
+    "enName": "Dratini",
     "classification": "ドラゴンポケモン",
     "types": ["ドラゴン"],
     "resistant": ["ほのお", "みず", "でんき", "くさ"],
@@ -8565,6 +8711,7 @@
   {
     "id": "148",
     "name": "ハクリュー",
+    "enName": "Dragonair",
     "classification": "ドラゴンポケモン",
     "types": ["ドラゴン"],
     "resistant": ["ほのお", "みず", "でんき", "くさ"],
@@ -8626,6 +8773,7 @@
   {
     "id": "149",
     "name": "カイリュー",
+    "enName": "Dragonite",
     "classification": "ドラゴンポケモン",
     "types": ["ドラゴン", "ひこう"],
     "resistant": ["ほのお", "みず", "くさ", "かくとう", "じめん", "むし"],
@@ -8686,6 +8834,7 @@
   {
     "id": "150",
     "name": "ミュウツー",
+    "enName": "Mewtwo",
     "classification": "いでんしポケモン",
     "types": ["エスパー"],
     "resistant": ["かくとう", "エスパー"],
@@ -8738,6 +8887,7 @@
   {
     "id": "151",
     "name": "ミュウ",
+    "enName": "Mew",
     "classification": "しんしゅポケモン",
     "types": ["エスパー"],
     "resistant": ["かくとう", "エスパー"],
