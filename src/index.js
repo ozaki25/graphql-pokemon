@@ -1,11 +1,9 @@
-import '@babel/polyfill'; // eslint-disable-line import/no-extraneous-dependencies
+import { ApolloServer } from 'apollo-server';
+import typeDefs from './schema';
+import resolver from './resolver';
 
-import app from './app';
+const server = new ApolloServer({ typeDefs, resolver });
 
-const PORT = 5000;
-
-(async () => {
-  await app.listen(PORT);
-
-  console.log(`GraphQL-Pokemon started on http://localhost:${PORT}/`);
-})();
+server.listen().then(({ url }) => {
+  console.log(`GraphQL-Pokemon started on ${url}`);
+});
