@@ -1,43 +1,26 @@
 import pokemons from '../pokemons/pokemons.json';
 
-export async function getPokemons(args) {
-  const searchedPokemons = pokemons.slice(0, args.first);
-
-  // const edges = searchedPokemons.map(pokemon => ({ node: pokemon }));
-
+export function getPokemons({ first }) {
+  const searchedPokemons = pokemons.slice(0, first);
   return searchedPokemons || null;
 }
 
-export async function getPokemonById(pokemonId) {
-  const pokemon = pokemons.filter(
-    ({ id }) => parseInt(id, 10) === parseInt(pokemonId, 10),
-  );
-
-  return pokemon[0] || null;
+export function getPokemonById(pokemonId) {
+  const pokemon = pokemons.find(({ id }) => id === pokemonId);
+  return pokemon || null;
 }
 
-export async function getPokemonByNumber(pokemonNumber) {
-  const pokemon = pokemons.filter(({ id }) => id === pokemonNumber);
-  return pokemon[0] || null;
+export function getPokemonByName(pokemonNameSearch) {
+  const pokemonName = pokemonNameSearch.trim();
+  const pokemon = pokemons.find(({ name }) => name === pokemonName);
+  return pokemon || null;
 }
 
-export async function getPokemonByName(pokemonNameSearch) {
-  const pokemonName = pokemonNameSearch.toLowerCase().trim();
-  const pokemon = pokemons.filter(
-    ({ name }) => name.toLowerCase() === pokemonName,
-  );
-  if (pokemon) return pokemon[0];
-  return null;
-}
-
-export async function getPokemonByEvolutions(evolutions) {
+export function getPokemonByEvolutions(evolutions) {
   if (!evolutions) return null;
-
-  const pokemonNames = evolutions.map(({ name }) => name.toLowerCase().trim());
-
+  const pokemonNames = evolutions.map(({ name }) => name.trim());
   const searchedPokemons = pokemons.filter(
-    ({ name }) => pokemonNames.indexOf(name.toLowerCase()) !== -1,
+    ({ name }) => pokemonNames.indexOf(name) !== -1,
   );
-
   return searchedPokemons || null;
 }

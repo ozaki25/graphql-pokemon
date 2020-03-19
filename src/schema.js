@@ -9,10 +9,8 @@ const typeDefs = gql`
 
   "ポケモンの情報を表す"
   type Pokemon {
-    "ポケモンのID"
-    id: String
     "ポケモンの番号"
-    number: String
+    id: String
     "ポケモンの名前"
     name: String
     "ポケモンの最小重量と最大重量"
