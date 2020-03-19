@@ -10,12 +10,7 @@
   "bugs": "https://github.com/lucasbento/graphql-pokemon/issues",
   "dependencies": {
     "apollo-server": "^2.11.0",
-    "graphql": "^14.6.0",
-    "graphql-relay": "^0.6.0",
-    "koa": "^2.11.0",
-    "koa-convert": "^1.2.0",
-    "koa-cors": "0.0.16",
-    "koa-graphql": "^0.8.0"
+    "graphql": "^14.6.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.8.4",
@@ -34,9 +29,7 @@
     "pokemon",
     "pogoapi",
     "pokeapi",
-    "koa",
-    "graphql",
-    "relay"
+    "graphql"
   ],
   "license": "MIT",
   "main": "dist/index.js",
